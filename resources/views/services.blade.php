@@ -98,7 +98,7 @@
               <h4>Project Management</h4>
               <p class="serviceBoxText text-muted">Looking for a way to stay ahead of the pack in today’s competitive and chaotic global economy, companies are turning to project management to consistently deliver business results.</p>
               <div class="viewMoreBtn">
-            <a class="btn btn-primary btn-xl" href="/services/program_management">Learn More</a>
+            <a class="btn btn-primary btn-xl" href="/services/project_management">Learn More</a>
           </div>
             </div>
           </div>
