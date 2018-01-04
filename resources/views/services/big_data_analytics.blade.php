@@ -2,37 +2,17 @@
 
 @section ('content')
 
-<header class="contactHead">
-
+<header class="serviceHero">
+    <div class="col-lg-12 serviceTopStyle">
+          <h1 class="section-heading">Big Data Analytics</h1>
+      </div>
 </header>
 
-<style type="text/css">
-  
-</style>
-
 <section>
-      <div class="container" style="padding-bottom: 0px;">
+      <div class="container">
         <div class="row">
-        <div class="col-lg-12 text-center">
-            <h1 class="section-heading">Big Data Analytics</h1>
-
-            <br><br>
-
-<div class="col-lg-12 text-left">
-
-  <h3>This is the toggle
-  <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#Analytics" aria-expanded="false" aria-controls="collapseExample"></a></h3>
-
-<div class="collapse" id="Analytics">
-  <div class="card card-body">
-    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
-  </div>
-</div>
-</div>
-
-<br>
-
         <div class="col-lg-12 text-left">
+
           <h3>Analytics &#38; Data Intelligence</h3>   
           <p>We will help your team transform raw data into actionable intelligence.  With a proven rapid approach to building data warehouses, reporting solutions, and transactional systems that interact with data, we can deliver valuable solutions quickly, just as we’ve done for over 1500 companies world wide.</p>
 
@@ -68,20 +48,23 @@
           </ul>
             
         </div>
-          </div>
         </div>
       </div>
-    
-    <div class="connectMain" style="margin-top: 0px; margin-bottom: 0px;">
-      <div class="col-lg-12 text-center sr-contact">
+    </section>
+
+    <section class="sectionColor">
+      <div class="jumbotron">
+        <div class="connectMain">    
+        <div class="col-lg-12  text-center sr-contact">
+         <i class="fa fa-4x fa-envelope text-primary sr-icons" aria-hidden="true"></i>
             <h2 class="section-heading">Let's Connect Today</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel porta purus. Aliquam in elit quis neque fringilla mollis quis quis lacus. Proin ac dapibus felis, hendrerit semper purus. </p>
             <div class="viewMoreBtn">
-      <a class="btn btn-primary btn-xl sr-button" href="/contact">Contact</a>
-      </div>        
-          </div>
-          </div>
-  
+            <a class="btn btn-primary btn-xl sr-button" style="color: white; box-shadow: none;" href="/contact">Contact</a>
+        </div>        
+        </div>
+        </div>
+      </div>
     </section>
 
 

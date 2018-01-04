@@ -31,7 +31,7 @@
         <div id="serviceMain">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading">Why Choose Us</h2>
-            <p>We are a team of proven technology leaders with more than 100 years of combined expertise focusing on the individual - employee, customer, and company.
+            <p class="text-center">We are a team of proven technology leaders with more than 100 years of combined expertise focusing on the individual - employee, customer, and company.
             In our process we begin by understanding the inhibitors to your success - performance, stability, financial, capabilities - and then create and execute a roadmap specifically tailored to your needs.</p>     
           </div>
         </div>
@@ -47,7 +47,7 @@
             <div class="service-box-home">
               <i class="fa fa-4x fa-cloud text-primary sr-icons" aria-hidden="true"></i>
               <h5>Cloud Services</h5>
-              <p class="text-muted">Whether your company’s Cloud Services requirements are IaaS, SaaS, PaaS or you need more insight into Private and Public Cloud offerings, Fulcrum Point Technologies can provide a Cloud Readiness Assessment to determine the best solution.</p>
+              <p class="text-muted text-center">Whether your company’s Cloud Services requirements are IaaS, SaaS, PaaS or you need more insight into Private and Public Cloud offerings, Fulcrum Point Technologies can provide a Cloud Readiness Assessment to determine the best solution.</p>
             </div>
           </div>
 
@@ -55,7 +55,7 @@
             <div class="service-box-home">
               <i class="fa fa-4x fa-globe text-primary sr-icons" aria-hidden="true"></i>
               <h5>Strategic Planning</h5>
-              <p class="text-muted">Our team of Technology Strategists will work with your Technology Leaders to assist in aligning your IT strategy with your Business Goals and Objectives.</p>
+              <p class="text-muted text-center">Our team of Technology Strategists will work with your Technology Leaders to assist in aligning your IT strategy with your Business Goals and Objectives.</p>
             </div>
           </div>
           
@@ -63,7 +63,7 @@
             <div class="service-box-home">
               <i class="fa fa-4x fa-cogs text-primary sr-icons" aria-hidden="true"></i>
               <h5>Technology Services</h5>
-              <p class="text-muted">Whether you are looking to optimize your current On-premise solution or your desire is to move to an IaaS, SaaS, PaaS, Cloud, Hybrid or various levels of managed services, Fulcrum Point Technologies will work with your team to identify and implement the right solution to meet your needs.</p>
+              <p class="text-muted text-center">Whether you are looking to optimize your current On-premise solution or your desire is to move to an IaaS, SaaS, PaaS, Cloud, Hybrid or various levels of managed services, Fulcrum Point Technologies will work with your team to identify and implement the right solution to meet your needs.</p>
             </div>
             </div>
 

@@ -2,26 +2,21 @@
 
 @section ('content')
 
-<header class="contactHead">
-
- 
-      <div class="col-lg-12 text-center">
+<header class="serviceHero">
+      <div class="col-lg-12 serviceTopStyle">
           <h1 class="section-heading">Database Services</h1>
       </div>
-      
-
 </header>
 
 <!-- <div class="scrollWith">
   <h1>Contact Me</h1>
 </div> -->
 
-<section>
+<section class="sectionOff">
 
       <div class="container">
        <div class="row">
-
-          <br><br>
+        <div class="col-lg-12 text-center">
 
         <div class="col-lg-12 text-left">
           <a class="allItemsClick" data-toggle="collapse" data-target=".allItems" aria-expanded="false" aria-controls="allItems"><p>Show All</p></a>
@@ -141,11 +136,26 @@
         </div>
         </div>
             
-        
+        </div>
         </div>
         </div>
       </div>
   
+    </section>
+
+    <section class="sectionColor">
+      <div class="jumbotron">
+        <div class="connectMain">    
+        <div class="col-lg-12  text-center sr-contact">
+         <i class="fa fa-4x fa-envelope text-primary sr-icons" aria-hidden="true"></i>
+            <h2 class="section-heading">Let's Connect Today</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel porta purus. Aliquam in elit quis neque fringilla mollis quis quis lacus. Proin ac dapibus felis, hendrerit semper purus. </p>
+            <div class="viewMoreBtn">
+            <a class="btn btn-primary btn-xl sr-button" style="color: white; box-shadow: none;" href="/contact">Contact</a>
+        </div>        
+        </div>
+        </div>
+      </div>
     </section>
 
 
