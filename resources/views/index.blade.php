@@ -91,22 +91,22 @@
       </div>
     </section>
 
-    <section class="partners">
+    <!-- <section class="partners">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
             
-            <!-- <img src="img/Fortalice.png" class="imgPartners" height="40px">
+            <img src="img/Fortalice.png" class="imgPartners" height="40px">
             <img src="img/RoundTower.png" class="imgPartners" height="65px">
             <img src="img/Proximity.png" class="imgPartners" height="60px">
             <img src="img/Viscosity.png" class="imgPartners" height="37px">
-            <img src="img/nwn-logo.png" class="imgPartners" height="40px"> -->
+            <img src="img/nwn-logo.png" class="imgPartners" height="40px">
           
             
           </div>         
         </div>        
       </div>
-    </section>
+    </section> -->
 
     @endsection 
 

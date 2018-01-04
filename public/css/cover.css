@@ -13,7 +13,7 @@ div.hidden {
 hr {
   max-width: 50px;
   border-width: 3px;
-  border-color: #359391; }
+  border-color: #359392; }
 
 hr.light {
   border-color: white; }
@@ -82,13 +82,18 @@ section {
   font-family: Raleway; }
 .partners {
   background-color: #b4b4b4;
-  padding-bottom: 50px;
-  padding-top: 50px;
+  padding-bottom: 0px;
+  padding-top: 5px;
 }
 .imgPartners {
   padding-left: 12px;
   padding-right: 12px;
   padding-bottom: 10px;
+}
+.scrollWith {
+  position: fixed;
+  bottom: 100px;
+  text-align: right;
 }
 
 ::-moz-selection {
@@ -126,12 +131,14 @@ body {
   text-align: center;
   margin-top: 40px;
 }
+.learnMoreBtn {
+  text-align: center;
+}
 .jumbotron {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  
   padding-left: 0px;
   padding-right: 0px;
-  background-color: #14232a;
+  background-color: #1e1e1e;
   border-radius: 0px;
   margin-bottom: 0px;
 }
@@ -154,7 +161,9 @@ body {
   margin-bottom: 0;
 }
 .form-control {
-  background-color: #e3e3e3;
+  background-color: #1e1e1e;
+  border: solid 2px #359392;
+  color: white;
 }
 .sendBtn {
   padding-top: 10px;
@@ -185,11 +194,12 @@ body {
   padding-bottom: 0;
 }
 footer {
-  
   color: white;
-  background-color: #14232a;
+  background-color: #1e1e1e;
   padding-right: 10%;
   padding-left: 10%;
+  border-top: double 10px #359392;
+
 }
 .footerContact {
   font-size: 13px; line-height: 1.2rem; padding-bottom: 10px;
@@ -328,7 +338,7 @@ footer {
 #mainNav .navbar-nav > li.nav-item > a.nav-link,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
   color: rgba(53, 147, 146, 0.9);
-  font-size: .9em; }
+  font-size: 1.1em; }
 #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
   color: white; }
@@ -442,9 +452,7 @@ header.masthead .header-content .header-content-inner p {
 .service-box-home {
   /*max-width: 400px;*/
   margin: 20px auto 0; }
-.serviceBoxText {
-  height: 185px;
-}
+
   
 @media (min-width: 992px) {
 
@@ -462,11 +470,25 @@ header.masthead .header-content .header-content-inner p {
     padding: 15px;
     min-height: 405px;
 }
+.serviceBoxText {
+  height: 185px;
+}
+.learnMoreBtn {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
 .connectMain {
   color: white;
   padding-left: 23%;
   padding-right: 23%;
 } }
+
+@media (max-width: 992px) {
+.learnMoreBtn {
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+}
 
 .service-box p {
   margin-bottom: 0; }

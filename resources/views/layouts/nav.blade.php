@@ -39,7 +39,7 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="/about_us">Who We Are</a>
+            <a class="nav-link hvr-underline-from-center" href="/about_us">Who We Are</a>
           </li>
           
           <li class="nav-item dropdown">
