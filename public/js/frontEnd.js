@@ -16,6 +16,14 @@
         }
     });
 
+    $('a.page-scroll').bind('click', function(event) {
+        var $anchor = $(this);
+        $('html, body').stop().animate({
+            scrollTop: ($($anchor.attr('href')).offset().top - 100)
+        }, 1250, 'easeInOutExpo');
+        event.preventDefault();
+    });
+
     //fade in on page load
     $(document).ready(function () {
     $('div.hidden').fadeIn(2000).removeClass('hidden');
