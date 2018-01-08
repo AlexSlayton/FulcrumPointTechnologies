@@ -77,7 +77,7 @@ section {
   padding: 100px 0;
   padding-bottom: 50px; }
 .sectionOff {
-  padding: 20px;
+  padding: 50px;
 }
 
 .section-heading {
@@ -196,14 +196,11 @@ body {
   padding-top: 70px;
   padding-bottom: 0;
 }
-.card {
-  max-width: 800px;
-}
-.sideBarNav {
-  z-index: -10;
+/*.sideBarNav {
+  z-index: 2;
   right: 0;
-  /*top: 0;*/
-  /*margin-top: 320px;*/
+  top: 0;
+  margin-top: 320px;
   font-size: 14px;
   margin-right: 10%;
   padding: 10px;
@@ -214,6 +211,18 @@ body {
   border: solid 1px #359392;
   border-radius: 5px;
   background-color: white;
+}*/
+
+.aside {
+  font-size: 14px;
+  text-align: left;
+  background: #eee;
+  float: right;
+  width: 30%;
+  padding: 1em;
+  /* position sticky */
+  position: sticky;
+  top: 6em;
 }
 footer {
   color: white;
@@ -504,6 +513,7 @@ header.masthead .header-content .header-content-inner p {
 
 .mobileOnly {
   visibility: hidden;
+  display: none;
 }
 .service-box {
     box-shadow: 0px 10px 25px lightgrey;
@@ -536,6 +546,18 @@ header.masthead .header-content .header-content-inner p {
 .learnMoreBtn {
   padding-bottom: 50px;
   padding-top: 20px;
+}
+.desktopOnly {
+  display: none;
+}
+.h3, h3{
+  font-size: 1.4rem;
+}
+section {
+  padding: 50px 0;
+  padding-bottom: 50px; }
+.sectionOff {
+  padding: 0px;
 }
 }
 
@@ -627,6 +649,9 @@ header.masthead .header-content .header-content-inner p {
   color: #222222;
   border-color: #bfbfbf;
   background-color: #d4d4d4; }
+.dropdown-item.active, .dropdown-item:active {
+  background-color: #359392;
+}
 .btn-default.active, .btn-default:active,
 .open > .btn-default.dropdown-toggle {
   background-image: none; }
