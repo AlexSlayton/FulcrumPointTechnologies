@@ -14,18 +14,18 @@
         <div class="col-lg-12 text-center">
 
         <aside class="aside">
-          <h3>Quick Link</h3>
+          <h3>Quick Links</h3>
             <ul style="list-style: none; padding: 0px;">
-              <li><a class="page-scroll" href="#1">Proactive Expert Managed Services</a></li>
-              <li><a class="page-scroll" href="#2">Health Checks &#38; Performance Tuning Services</a></li>
-              <li><a class="page-scroll" href="#3">Database Virtualization Services</a></li>
-              <li><a class="page-scroll" href="#4">Database Migration Architecture</a></li>
-              <li><a class="page-scroll" href="#5">Database Migration Implementation</a></li>
-              <li><a class="page-scroll" href="#6">Backend Development and Architecture</a></li>
-              <li><a class="page-scroll" href="#7">Zero Downtime Zero Risk Database Migration Services</a></li>
-              <li><a class="page-scroll" href="#8">SQL Server Best Practices</a></li>
-              <li><a class="page-scroll" href="#9">SQL Server Replication Services</a></li>
-              <li><a class="page-scroll" href="#10">Database Re-Platform Migration</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#1"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Proactive Expert Managed Services</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#2"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Health Checks &#38; Performance Tuning Services</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#3"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Database Virtualization Services</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#4"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Database Migration Architecture</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#5"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Database Migration Implementation</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#6"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Backend Development and Architecture</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#7"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Zero Downtime Zero Risk Database Migration Services</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#8"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>SQL Server Best Practices</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#9"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>SQL Server Replication Services</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#10"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Database Re-Platform Migration</a></li>
             </ul> 
         </aside>
 

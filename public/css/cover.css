@@ -218,12 +218,22 @@ body {
   text-align: left;
   background: #eee;
   float: right;
-  width: 30%;
+  width: 32%;
   padding: 1em;
   /* position sticky */
   position: sticky;
   top: 6em;
 }
+.quickLinkList {
+  padding-top: 10px;
+}
+.quickLinkList a {
+  color: #359392;
+}
+.quickLinkList a:hover {
+  color: black;
+}
+
 footer {
   color: white;
   background-color: #1e1e1e;
@@ -369,7 +379,7 @@ footer {
 #mainNav .navbar-nav > li.nav-item > a.nav-link,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
   color: #fbfbfb;
-  font-size: 1.1em; }
+  font-size: 1em; }
 #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
   color: #359392; }
