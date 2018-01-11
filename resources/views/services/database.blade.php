@@ -3,8 +3,12 @@
 @section ('content')
 
 <header class="serviceHero">
-      <div class="col-lg-12 serviceTopStyle">
-          <h1 class="section-heading">Database Services</h1>
+      <div class="header-content">
+        <div class="header-content-inner sr-text">
+          <h1 id="homeHeading">Database Services</h1>
+          <br>
+            <!-- <p>Fulcrum Point Technologies has solutions to fit all your Database needs.</p> -->
+        </div>
       </div>
 </header>
 
@@ -34,14 +38,12 @@
 
           <div id="1"></div>
           <h3>Proactive Expert Managed Services</h3>
-
           <p>Fulcrum can provide you 24x7x365 SQL Server database support at reduced cost.  Even the best resources get sick, go on vacation, or move on. Our dedicated team of SQL Server Expert DBA’s can maintain your infrastructure and improve your quality of service for less.</p>
           
           <br>
           
           <div id="2"></div>
-          <h3>Health Checks &#38; Performance Tuning Services</h3>
-          
+          <h3>Health Checks &#38; Performance Tuning Services</h3> 
           <p>Ensure that your database is running optimally and identify areas for improvement. This service is designed to provide an unbiased evaluation in order to identify bottlenecks and configuration issues. The database assessment is designed to not only analyze the current state of your environment, but also to help create a roadmap for the future.</p>
 
           <br>
@@ -97,13 +99,13 @@
 
     </section>
 
-<section class="sectionOff mobileOnly">
+<section class="mobileOnly">
 
       <div class="container">
        <div class="row">
         <div class="col-lg-12 text-center">
-        <div class="col-lg-12 text-left">
-          <a class="allItemsClick" data-toggle="collapse" data-target=".allItems" aria-expanded="false" aria-controls="allItems"><p>Show All</p></a>
+        <div class="col-lg-12 text-center">
+          <a class="allItemsClick" data-toggle="collapse" data-target=".allItems" aria-expanded="false" aria-controls="allItems"><p class="showAllBtn">Show All</p></a>
 
           <br>
 
@@ -111,9 +113,9 @@
 
           <br>
 
-        <div class="col-lg-12 text-left">
-          <h3>Proactive Expert Managed Services
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#ProactiveExpert" aria-expanded="false" aria-controls="collapseExample"></a></h3>
+        <div class="text-center">
+          <h3>Proactive Expert Managed Services<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#ProactiveExpert" aria-expanded="false" aria-controls="collapseExample"></a></h3>
 
         <div class="collapse allItems" id="ProactiveExpert">
         <div class="card card-body">
@@ -123,8 +125,8 @@
           
           <br>
 
-          <h3>Health Checks &#38; Performance Tuning Services
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#HealthChecks" aria-expanded="false" aria-controls="collapseExample"></a></h3>
+          <h3>Health Checks &#38; Performance Tuning Services<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#HealthChecks" aria-expanded="false" aria-controls="collapseExample"></a></h3>
           
         <div class="collapse allItems" id="HealthChecks">
         <div class="card card-body">
@@ -134,8 +136,8 @@
 
           <br>
 
-          <h3>Database Virtualization Services
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#Virtualization" aria-expanded="false" aria-controls="collapse"></a></h3>
+          <h3>Database Virtualization Services<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#Virtualization" aria-expanded="false" aria-controls="collapse"></a></h3>
 
         <div class="collapse allItems" id="Virtualization">
         <div class="card card-body">
@@ -145,8 +147,8 @@
 
           <br>
 
-          <h3>Database Migration Architecture
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#Architecture" aria-expanded="false" aria-controls="collapse"></a></h3>
+          <h3>Database Migration Architecture<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#Architecture" aria-expanded="false" aria-controls="collapse"></a></h3>
 
         <div class="collapse allItems" id="Architecture">
         <div class="card card-body">
@@ -156,8 +158,8 @@
 
           <br>
 
-          <h3>Database Migration Implementation
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#Implementation" aria-expanded="false" aria-controls="collapse"></a></h3>
+          <h3>Database Migration Implementation<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#Implementation" aria-expanded="false" aria-controls="collapse"></a></h3>
 
         <div class="collapse allItems" id="Implementation">
         <div class="card card-body">
@@ -167,8 +169,8 @@
 
           <br>
 
-          <h3>Backend Development and Architecture
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#backendDev" aria-expanded="false" aria-controls="backendDev"></a></h3>
+          <h3>Backend Development and Architecture<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#backendDev" aria-expanded="false" aria-controls="backendDev"></a></h3>
 
         <div class="collapse allItems" id="backendDev">
         <div class="card card-body">
@@ -178,8 +180,8 @@
 
           <br>
 
-          <h3>Zero Downtime Zero Risk Database Migration Services
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#zero" aria-expanded="false" aria-controls="zero"></a></h3>
+          <h3>Zero Downtime Zero Risk Database Migration Services<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#zero" aria-expanded="false" aria-controls="zero"></a></h3>
 
         <div class="collapse allItems" id="zero">
         <div class="card card-body">
@@ -189,8 +191,8 @@
 
           <br>
 
-          <h3>SQL Server Best Practices
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#sqlBest" aria-expanded="false" aria-controls="sqlBest"></a></h3>
+          <h3>SQL Server Best Practices<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#sqlBest" aria-expanded="false" aria-controls="sqlBest"></a></h3>
 
         <div class="collapse allItems" id="sqlBest">
         <div class="card card-body">
@@ -200,8 +202,8 @@
 
           <br>
 
-          <h3>SQL Server Replication Services
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#sqlServer" aria-expanded="false" aria-controls="sqlServer"></a></h3>
+          <h3>SQL Server Replication Services<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#sqlServer" aria-expanded="false" aria-controls="sqlServer"></a></h3>
 
         <div class="collapse allItems" id="sqlServer">
         <div class="card card-body">
@@ -211,8 +213,8 @@
 
           <br>
 
-          <h3>Database Re-Platform Migration
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#databaseRe" aria-expanded="false" aria-controls="databaseRe"></a></h3>
+          <h3>Database Re-Platform Migration<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#databaseRe" aria-expanded="false" aria-controls="databaseRe"></a></h3>
 
         <div class="collapse allItems" id="databaseRe">
         <div class="card card-body">
@@ -233,8 +235,8 @@
         <div class="col-lg-12  text-center sr-contact">
          <i class="fa fa-4x fa-envelope text-primary sr-icons" aria-hidden="true"></i>
             <h2 class="section-heading">Let's Connect Today</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel porta purus. Aliquam in elit quis neque fringilla mollis quis quis lacus. Proin ac dapibus felis, hendrerit semper purus. </p>
-            <div class="viewMoreBtn">
+            <p class="text-center">We are dedicated to helping you redefine and transform the role that Information Technology plays in your business. Let's Connect Today!</p>
+            <div class="contactBtn">
             <a class="btn btn-primary btn-xl sr-button" style="color: white; box-shadow: none;" href="/contact">Contact</a>
         </div>        
         </div>

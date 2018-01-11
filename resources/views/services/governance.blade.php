@@ -3,40 +3,42 @@
 @section ('content')
 
 <header class="serviceHero">
-    <div class="col-lg-12 serviceTopStyle">
-          <h1 class="section-heading">Governance</h1>
+      <div class="header-content">
+        <div class="header-content-inner sr-text">
+          <h1 id="homeHeading">Governance</h1>
+          <br>
+            <!-- <p></p> -->
+        </div>
       </div>
 </header>
 
-<section>
+<section class="sectionOff">
       <div class="container" style="padding-bottom: 0px;">
         <div class="row">
         <div class="col-lg-12 text-center">
             
 
         <div class="col-lg-12 text-left">
-          <p>Fulcrum is focused on delivering high valued Governance, Risk Management, and Strategic Advisory solutions.</p>
+          <h4>Fulcrum is focused on delivering high valued Governance, Risk Management, and Strategic Advisory solutions.</h4>
 
-          <p>&#10004; IT and Business controls development and effectiveness monitoring
-            <br>
-          &#10004; Business process and procedure design, assessment, and implementation
-            <br>
-          &#10004; Program and portfolio management in complex matrixed organizations
-            <br>
-          &#10004; Development of Key Performance Indicators and Metrics reporting
-            <br>
-          &#10004; Remediation management planning and Risk modeling
-            <br>
-          &#10004; Agile process implementation and monitoring
-            <br>
-          &#10004; SOX and SSAE16 compliance auditing (internal and external)
-            <br>
-          &#10004; Audit Readiness and Response
-            <br>
-          &#10004; Establish Responsible, Accountable, Consulted and Informed(RACI) Matrix
-          </p>
-
+          <p><i class="fa fa-plus" aria-hidden="true"></i> IT and Business controls development and effectiveness monitoring</p>
             
+          <p><i class="fa fa-plus" aria-hidden="true"></i> Business process and procedure design, assessment, and implementation</p>
+           
+          <p><i class="fa fa-plus" aria-hidden="true"></i> Program and portfolio management in complex matrixed organizations</p>
+          
+          <p><i class="fa fa-plus" aria-hidden="true"></i> Development of Key Performance Indicators and Metrics reporting</p>
+            
+          <p><i class="fa fa-plus" aria-hidden="true"></i> Remediation management planning and Risk modeling</p>
+            
+          <p><i class="fa fa-plus" aria-hidden="true"></i> Agile process implementation and monitoring</p>
+            
+          <p><i class="fa fa-plus" aria-hidden="true"></i> SOX and SSAE16 compliance auditing (internal and external)</p>
+            
+          <p><i class="fa fa-plus" aria-hidden="true"></i> Audit Readiness and Response</p>
+            
+          <p><i class="fa fa-plus" aria-hidden="true"></i> Establish Responsible, Accountable, Consulted and Informed(RACI) Matrix</p>
+ 
         </div>
           </div>
         </div>
@@ -50,8 +52,8 @@
         <div class="col-lg-12  text-center sr-contact">
          <i class="fa fa-4x fa-envelope text-primary sr-icons" aria-hidden="true"></i>
             <h2 class="section-heading">Let's Connect Today</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel porta purus. Aliquam in elit quis neque fringilla mollis quis quis lacus. Proin ac dapibus felis, hendrerit semper purus. </p>
-            <div class="viewMoreBtn">
+            <p class="text-center">We are dedicated to helping you redefine and transform the role that Information Technology plays in your business. Let's Connect Today!</p>
+            <div class="contactBtn">
             <a class="btn btn-primary btn-xl sr-button" style="color: white; box-shadow: none;" href="/contact">Contact</a>
         </div>        
         </div>

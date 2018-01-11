@@ -3,25 +3,18 @@
 @section ('content')
 <div class="hidden">
 <header class="serviceHero">
-    <div class="col-lg-12 serviceTopStyle">
-          <h1 class="section-heading">Services</h1>
+      <div class="header-content">
+        <div class="header-content-inner sr-text">
+          <h1 id="homeHeading">Services</h1>
+          <br>
+            <p>Fulcrum Point Technologies is an Innovation and Solution provider that specializes in Operational and Technology optimization.</p>
+        </div>
       </div>
 </header>
 </div>
 
 
-<section id="services" style="background-color: #fbfbfb; padding: 0px;">
-<!-- <div class="container">
-        <div class="row">
-        <div id="serviceMain">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Services</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel porta purus. Aliquam in elit quis neque fringilla mollis quis quis lacus. Proin ac dapibus felis, hendrerit semper purus. In at condimentum augue. Vivamus ligula tortor, posuere vitae velit ut, luctus suscipit urna. Aliquam quis arcu suscipit, condimentum dolor a, tincidunt velit. Nulla tempor quis quam ac bibendum.</p>           
-          </div>
-        </div>
-        </div>
-      </div> -->
-      <br>
+<section id="servicesList">
       <div class="container">
         <div class="row">
 
@@ -127,10 +120,10 @@
             </div>
 
         <div class="col-lg-12 text-center">
-            <div class="service-box">
+            <div class="service-box" style="min-height: 200px;">
               <i class="fa fa-3x fa-sitemap text-primary sr-icons"></i>
               <h4>Governance</h4>
-              <p class="serviceBoxText text-muted text-left">Fulcrum is focused on delivering high valued Governance, Risk Management, and Strategic Advisory solutions.</p>
+              <p class="text-muted text-center">Fulcrum is focused on delivering high valued Governance, Risk Management, and Strategic Advisory solutions.</p>
               <div class="learnMoreBtn">
             <a class="btn btn-primary btn-xl" href="/services/governance">Learn More</a>
           </div>

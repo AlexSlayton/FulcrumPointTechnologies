@@ -3,15 +3,16 @@
 @section ('content')
 <div class="hidden">
 <header class="serviceHero">
-    <div class="col-lg-12 serviceTopStyle">
-          <h1 class="section-heading">Who We Are</h1>
-          <div class="col-lg-6 text-left">
-            <p style="font-weight: 700; text-transform: none;">Fulcrum Point Technologies is an Innovation and Solution provider that specializes in Operational and Technology optimization.</p></div>
-
+      <div class="header-content">
+        <div class="header-content-inner sr-text">
+          <h1 id="homeHeading">Who We Are</h1>
+          <br>
+            <p>Fulcrum Point Technologies is an Innovation and Solution provider that specializes in Operational and Technology optimization.</p>
+        </div>
       </div>
 </header>
 
-<section>
+<section class="sectionOff">
       <div class="container">
         <div class="row">
         <div class="col-lg-12 text-center">
@@ -21,7 +22,7 @@
 
             <br> -->
             
-            <p>Collectively, we create a unique value proposition based on fundamentally sound technical and business principles to help your business find the right balance between Business and Information Technology.</p>
+            <p><strong>Collectively, we create a unique value proposition based on fundamentally sound technical and business principles to help your business find the right balance between Business and Information Technology.</strong></p>
 
             <br>
 
