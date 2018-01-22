@@ -2,7 +2,7 @@
 
 @section ('content')
 
-<header class="serviceHero">
+<header class="serviceHero" id="vendorManagementImg">
       <div class="header-content">
         <div class="header-content-inner sr-text">
           <h1 id="homeHeading">Vendor Management</h1>
@@ -99,34 +99,33 @@
 
 
 <!-- Mobile Only Section for resolution @max 992px -->
-<section class="sectionOff mobileOnly">
+<section class="mobileOnly">
 
       <div class="container">
        <div class="row">
         <div class="col-lg-12 text-center">
-
+        <div class="col-lg-12 text-center">
           <p><strong>In todays ever changing business landscape, ensuring that you have the right vendors aligned to your business needs is critical. By implementing a formal Vendor Management Program, you will have valuable insight into how well your vendors are performing and any potential risk they pose, so you can be proactive in your response instead of reactive.</strong></p>
           <p><strong>While there are many factors that go into a successful Vender Management Program; there are three critical factors that must be present in a Vendor Management Program - Risk Mitigation, Performance Metrics and Operational Oversight.</strong></p>
 
           <br>
-          <br>
+          
+          <a class="allItemsClick" data-toggle="collapse" data-target=".allItems" aria-expanded="false" aria-controls="allItems"><p class="showAllBtn">Show All</p></a>
 
-        <div class="col-lg-12 text-left">
-          <a class="allItemsClick" data-toggle="collapse" data-target=".allItems" aria-expanded="false" aria-controls="allItems"><p>Show All</p></a>
+          <br>
 
         </div>
 
           <br>
 
-        <div class="col-lg-12 text-left">
-          
-          <h3>Risk Mitigation
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#ProactiveExpert" aria-expanded="false" aria-controls="collapseExample"></a></h3>
+        <div class="text-center">
+          <h3>Risk Mitigation<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#toggle1" aria-expanded="false" aria-controls="collapseExample"></a></h3>
 
-        <div class="collapse allItems" id="ProactiveExpert">
+        <div class="collapse allItems" id="toggle1">
         <div class="card card-body">
           <p>In order to assess risk, you have to define what a potential risks is, what could be the potential impact that these risk pose and what process and controls you have in place to prevent or respond to any risk events.</p>
-            <ul>
+            <ul class="text-left">
               <li>How much do you rely on each Vendor</li>
               <li>How hard is it to replace each Vendor</li>
               <li>How much is spent with Vendor</li>
@@ -143,13 +142,13 @@
           
           <br>
 
-          <h3>Performance Metrics
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#HealthChecks" aria-expanded="false" aria-controls="collapseExample"></a></h3>
+          <h3>Performance Metrics<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#toggle2" aria-expanded="false" aria-controls="collapseExample"></a></h3>
           
-        <div class="collapse allItems" id="HealthChecks">
+        <div class="collapse allItems" id="toggle2">
         <div class="card card-body">
           <p>If you can’t measure it, then it doesn’t exist and you can't improve it. For a metric to be effective, it should be mapped to an end goal and have an action plan defined for track ability, improvement, and repeatability.  To achieve optimal results, performance must be a year-round process with no end.</p>
-            <ul>
+            <ul class="text-left">
               <li>Adherence to SLA agreements</li>
               <li>Service Reliability</li>
               <li>Cost Comparison</li>
@@ -164,13 +163,13 @@
 
           <br>
 
-          <h3>Operational Oversight
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#Virtualization" aria-expanded="false" aria-controls="collapse"></a></h3>
+          <h3>Operational Oversight<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#toggle3" aria-expanded="false" aria-controls="collapse"></a></h3>
 
-        <div class="collapse allItems" id="Virtualization">
+        <div class="collapse allItems" id="toggle3">
         <div class="card card-body">
           <p>Operational Oversight is designed to ensure actions are consistent and sustainable with established plans and objectives, based on Risk Profile.</p>
-            <ul>
+            <ul class="text-left">
               <li>Establish list of Vendors</li>
               <ul>
                 <li>By Size, Spend, Reliance and Risk</li>

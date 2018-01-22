@@ -2,7 +2,7 @@
 
 @section ('content')
 
-<header class="serviceHero">
+<header class="serviceHero" id="devOpsImg">
       <div class="header-content">
         <div class="header-content-inner sr-text">
           <h1 id="homeHeading">Dev Ops</h1>
@@ -12,13 +12,19 @@
       </div>
 </header>
 
+
 <section class="sectionOff desktopOnly">
       <div class="container">
        <div class="row">
         <div class="col-lg-12 text-center">
 
+      
+
         <aside class="aside">
           <h3>Quick Links</h3>
+
+<div class="asideImg"></div>
+
             <ul style="list-style: none; padding: 0px;">
               <li class="quickLinkList"><a class="page-scroll" href="#1"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Full Suite of Onshore/Nearshore Development Services</a></li>
               <li class="quickLinkList"><a class="page-scroll" href="#2"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Commercial Facing &#38; Enterprise Application Development</a></li>
@@ -33,9 +39,7 @@
             </ul> 
         </aside>
 
-
         <div class="col-lg-8 text-left">
-
           <div id="1"></div>
           <h3>Full Suite of Onshore/Nearshore Development Services</h3>
 
@@ -124,15 +128,15 @@
       </div>
 
     </section>
-
-<section class="sectionOff mobileOnly">
+    
+<!-- Mobile Only Section for resolution @max 992px -->
+<section class="mobileOnly">
 
       <div class="container">
        <div class="row">
         <div class="col-lg-12 text-center">
-
-        <div class="col-lg-12 text-left">
-          <a class="allItemsClick" data-toggle="collapse" data-target=".allItems" aria-expanded="false" aria-controls="allItems"><p>Show All</p></a>
+        <div class="col-lg-12 text-center">
+          <a class="allItemsClick" data-toggle="collapse" data-target=".allItems" aria-expanded="false" aria-controls="allItems"><p class="showAllBtn">Show All</p></a>
 
           <br>
 
@@ -140,11 +144,11 @@
 
           <br>
 
-        <div class="col-lg-12 text-left">
-          <h3>Full Suite of Onshore/Nearshore Development Services
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#ProactiveExpert" aria-expanded="false" aria-controls="collapseExample"></a></h3>
+        <div class="text-center">
+          <h3>Full Suite of Onshore/Nearshore Development Services<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#toggle1" aria-expanded="false" aria-controls="collapseExample"></a></h3>
 
-        <div class="collapse allItems" id="ProactiveExpert">
+        <div class="collapse allItems" id="toggle1">
         <div class="card card-body">
           <p>Successfully delivering challenging projects utilizing multiple technologies, we help our clients to reduce time to market and costs - providing the opportunity to focus on core business activities while taking care of technical needs, working shoulder to shoulder towards a common goal.</p>
         </div>
@@ -152,10 +156,10 @@
           
           <br>
 
-          <h3>Commercial Facing &#38; Enterprise Application Development
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#HealthChecks" aria-expanded="false" aria-controls="collapseExample"></a></h3>
+          <h3>Commercial Facing &#38; Enterprise Application Development<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#toggle2" aria-expanded="false" aria-controls="collapseExample"></a></h3>
           
-        <div class="collapse allItems" id="HealthChecks">
+        <div class="collapse allItems" id="toggle2">
         <div class="card card-body">
           <p>We specialize in Rapid Application Development, bringing a disciplined team-based approach to all aspects of Inception, Design, and Build.  We right-size the solution to fit your needs and individual platform preferences.</p>
 
@@ -168,10 +172,10 @@
 
         <br>
 
-          <h3>Mobile Web &#38; Native Mobile Applications
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#Virtualization" aria-expanded="false" aria-controls="collapse"></a></h3>
+          <h3>Mobile Web &#38; Native Mobile Applications<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#toggle3" aria-expanded="false" aria-controls="collapse"></a></h3>
 
-        <div class="collapse allItems" id="Virtualization">
+        <div class="collapse allItems" id="toggle3">
         <div class="card card-body">
           <p>Our development experts carefully design every web application with mobile devices in mind, ensuring that your application users have flexibility and options. Additionally, our specialists develop native applications for both Android and iOS.</p>
         </div>
@@ -179,10 +183,10 @@
 
           <br>
 
-          <h3>Cloud Applications
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#Architecture" aria-expanded="false" aria-controls="collapse"></a></h3>
+          <h3>Cloud Applications<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#toggle4" aria-expanded="false" aria-controls="collapse"></a></h3>
 
-        <div class="collapse allItems" id="Architecture">
+        <div class="collapse allItems" id="toggle4">
         <div class="card card-body">
           <p>Specializing in SaaS, PaaS, and IaaS, we offer a broad array of expertise, ensuring your applications are ready for Private, Public, or Hybrid cloud environments.</p>
         </div>
@@ -190,10 +194,10 @@
 
           <br>
 
-          <h3>Application Updates, Migration, &#38; Re-Platforming
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#Implementation" aria-expanded="false" aria-controls="collapse"></a></h3>
+          <h3>Application Updates, Migration, &#38; Re-Platforming<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#toggle5" aria-expanded="false" aria-controls="collapse"></a></h3>
 
-        <div class="collapse allItems" id="Implementation">
+        <div class="collapse allItems" id="toggle5">
         <div class="card card-body">
           <p>Move your applications from older, non-strategic, and unsecure platforms to modern, secure, and strategic ones. Our highly talented team of experts will provide a high-value assessment of your legacy applications and data, followed by a pilot or proof of concept.</p>
         </div>
@@ -201,10 +205,10 @@
 
           <br>
 
-          <h3>Content Management System
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#backendDev" aria-expanded="false" aria-controls="backendDev"></a></h3>
+          <h3>Content Management System<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#toggle6" aria-expanded="false" aria-controls="backendDev"></a></h3>
 
-        <div class="collapse allItems" id="backendDev">
+        <div class="collapse allItems" id="toggle6">
         <div class="card card-body">
           <p>Secure, Scalable, Customizable, Flexible, Mobile, and Ease of Use are the key aspects of any content management system (CMS) platform. The critical issue is choosing the right one!</p>
           <p>Using a CMS to power your site could be one of the best investments you make in your website, blog, shopping platform, or portal, bringing together power with simplicity to ensure focus on the improvement of your business.</p>
@@ -214,10 +218,10 @@
 
           <br>
 
-          <h3>Testing Services
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#zero" aria-expanded="false" aria-controls="zero"></a></h3>
+          <h3>Testing Services<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#toggle7" aria-expanded="false" aria-controls="zero"></a></h3>
 
-        <div class="collapse allItems" id="zero">
+        <div class="collapse allItems" id="toggle7">
         <div class="card card-body">
           <p>Whether it be functional, automated, or load and performance testing, we can help you achieve your testing objectives.</p>
           <p>Our test engineers can work together with your team, or act independently, providing manual and automation testing services that include the definition of the testing strategy, design and development of test cases, testing execution, formal reporting, retesting, and closing.</p>
@@ -227,15 +231,17 @@
           <br>
           <br>
 
-        <h4><u>Our testing model is performed following three phases:</u></h4>
+        <h4 style="font-size: 1.4rem;"><u>Our testing model is performed following three phases:</u></h4>
 
-          <h3>Planning
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#sqlBest" aria-expanded="false" aria-controls="sqlBest"></a></h3>
+          <br>
 
-        <div class="collapse allItems" id="sqlBest">
+          <h3>Planning<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#toggle8" aria-expanded="false" aria-controls="sqlBest"></a></h3>
+
+        <div class="collapse allItems" id="toggle8">
         <div class="card card-body">
           <p>All testing process are defined and planned, considering the project needs and conditions. Planning includes areas such as:</p>
-            <ul>
+            <ul class="text-left">
               <li>Development of a strategy for each application according to the customer’s needs</li>
               <li>Execution of test-planning based on IEEE Standard for Software Test Documentation as well as other industry specifications and best practices</li>
               <li>Selection of testing types, tools, and techniques</li>
@@ -247,13 +253,13 @@
 
           <br>
 
-          <h3>Design
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#sqlServer" aria-expanded="false" aria-controls="sqlServer"></a></h3>
+          <h3>Design<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#toggle9" aria-expanded="false" aria-controls="sqlServer"></a></h3>
 
-        <div class="collapse allItems" id="sqlServer">
+        <div class="collapse allItems" id="toggle9">
         <div class="card card-body">
           <p>The test cases are developed according to the test plan. This phase includes activities like:</p>
-            <ul>
+            <ul class="text-left">
               <li>Test Case Design</li>
               <li>Creation / Validation of Test Cases</li>
               <li>Test Case Update</li>
@@ -264,10 +270,10 @@
 
           <br>
 
-          <h3>Execution and reporting
-          <a class="fa fa-chevron-right rotate" data-toggle="collapse" data-target="#databaseRe" aria-expanded="false" aria-controls="databaseRe"></a></h3>
+          <h3>Execution and reporting<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#toggle10" aria-expanded="false" aria-controls="databaseRe"></a></h3>
 
-        <div class="collapse allItems" id="databaseRe">
+        <div class="collapse allItems" id="toggle10">
         <div class="card card-body">
           <p>The test plan is followed and adjusted if needed. All test cases are executed and the test results are provided along with an extensive defect report. Testing will be performed based on functionality, usability, performance, and portability.</p>
         </div>

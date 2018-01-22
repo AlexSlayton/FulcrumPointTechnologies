@@ -162,8 +162,8 @@ body {
 }
 .connectMain {
   color: white;
-  /*margin-top: 55px;
-  margin-bottom: 55px;*/
+  margin-top: 35px;
+  margin-bottom: 35px;
   /*padding-left: 23%;
   padding-right: 23%;*/
 }
@@ -240,6 +240,27 @@ body {
   position: sticky;
   top: 6em;
 }
+.aside {
+  font-size: 14px;
+  text-align: left;
+  background: #eee;
+  float: right;
+  width: 32%;
+  padding: 1em;
+  /* position sticky */
+  position: -webkit-sticky;
+  position: sticky;
+  top: 6em;
+}
+.asideImg {
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 150px;
+  background-image: url("/img/chess.jpg");
+}
 .quickLinkList {
   padding-top: 10px;
 }
@@ -302,7 +323,7 @@ footer {
   color: blue; }
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus,
 #mainNav .navbar-nav > li.nav-item > a.nav-link {
-  font-size: 20px;
+  font-size: 25px;
   font-weight: bold;
   text-transform: uppercase;
   color: #222222; }
@@ -369,17 +390,52 @@ footer {
 header.serviceHero {
   position: relative;
   width: 100%;
-  height: 300px;
+  height: 250px;
   min-height: auto;
   text-align: left;
   color: white;
-  background-image: url("/img/FPTservicehero.jpg");
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   }
+#bigDataImg {
+  background-image: url("/img/FPTservicehero.jpg");
+}
+#cloudImg {
+  background-image: url("/img/FPTservicehero.jpg");
+}
+#databaseImg {
+  background-image: url("/img/FPTservicehero.jpg");
+}
+#devOpsImg {
+  background-image: url("/img/FPTservicehero.jpg");
+}
+#governanceImg {
+  background-image: url("/img/FPTservicehero.jpg");
+}
+#projectManagementImg {
+  background-image: url("/img/ProjectMan.jpg");
+}
+#securityImg {
+  background-image: url("/img/FPTservicehero.jpg");
+}
+#strategicPlanningImg {
+  background-image: url("/img/FPTservicehero.jpg");
+}
+#technologyImg {
+  background-image: url("/img/FPTservicehero.jpg");
+}
+#vendorManagementImg {
+  background-image: url("/img/FPTservicehero.jpg");
+}
+#aboutUsImg {
+  background-image: url("/img/FPTservicehero.jpg");
+}
+#servicePageImg {
+  background-image: url("/img/FPTservicehero.jpg");
+}
 .serviceTopStyle {
   padding-top: 170px;
   padding-left: 15%;
@@ -451,8 +507,8 @@ header.serviceHero .header-content .header-content-inner p {
 header.masthead {
   height: 100%;
   min-height: 600px; }
-header.serviceHero {
-  min-height: 325px; }
+/*header.serviceHero {
+  min-height: 325px; }*/
 header.masthead .header-content {
   position: absolute;
   top: 45%;
@@ -472,11 +528,11 @@ header.masthead .header-content .header-content-inner {
   margin-right: auto;
   margin-left: 60px;
   padding-top: 150px; }
-header.serviceHero .header-content .header-content-inner {
+/*header.serviceHero .header-content .header-content-inner {
   max-width: 800px;
   margin-right: auto;
   padding-left: 10.5%;
-  padding-top: 100px; }
+  padding-top: 100px; }*/
 header.masthead .header-content .header-content-inner h1 {
   font-size: 30px;
   font-family: Raleway; }
@@ -509,6 +565,9 @@ header.serviceHero .header-content .header-content-inner p {
 .service-box-home {
   /*max-width: 400px;*/
   margin: 20px auto 0; }
+.service-box-content {
+  min-height: 450px;
+}
 
   
 @media (min-width: 992px) {
@@ -532,6 +591,14 @@ header.serviceHero .header-content .header-content-inner p {
     padding: 15px;
     min-height: 450px;
     background-color: white;
+}
+header.serviceHero .header-content .header-content-inner {
+  max-width: 800px;
+  margin-right: auto;
+  padding-left: 10.5%;
+  padding-top: 100px; }
+.service-box-home p {
+    font-size: 15px;
 }
 .serviceBoxText {
   height: 185px;
@@ -576,10 +643,17 @@ header.serviceHero .header-content .header-content-inner p {
   margin-bottom: 10px;
   }
 header.serviceHero .header-content .header-content-inner {
-  padding-left: 0%; }
+  padding-left: 0%;
+  padding-top: 75px; }
 header.serviceHero {
   height: 225px;
   }
+header.serviceHero .header-content {
+  position: relative;
+  text-align: center;
+  width: 100%;
+  padding: 130px 15px 100px;
+   }
 .card-body {
   margin-bottom: 10px;
 }
@@ -589,9 +663,9 @@ header.serviceHero {
 .fa-chevron-circle-right:before {
     color: #359392;
 }
-/*.h3, h3{
-  font-size: 1.4rem;
-}*/
+.h3, h3{
+  font-size: 1.3rem;
+}
 section {
   padding: 50px 0;
   padding-bottom: 50px; }
@@ -604,52 +678,6 @@ section {
   margin-bottom: 0; }
 .service-box-home p {
   margin-bottom: 0; }
-
-/*.portfolio-box {
-  position: relative;
-  display: block;
-  max-width: 650px;
-  margin: 0 auto; }
-.portfolio-box .portfolio-box-caption {
-  position: absolute;
-  bottom: 0;
-  display: block;
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  opacity: 0;
-  color: white;
-  background: rgba(240, 95, 64, 0.9);
-  -webkit-transition: all 0.2s;
-  -moz-transition: all 0.2s;
-  transition: all 0.2s; }
-.portfolio-box .portfolio-box-caption .portfolio-box-caption-content {
-  position: absolute;
-  top: 50%;
-  width: 100%;
-  transform: translateY(-50%);
-  text-align: center; }
-.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
-.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-  padding: 0 15px;
-  font-family: Raleway; }
-.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
-  font-size: 14px;
-  font-weight: 600;
-  text-transform: uppercase; }
-.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-  font-size: 18px; }
-.portfolio-box:hover .portfolio-box-caption {
-  opacity: 1; }
-.portfolio-box:focus {
-  outline: none; }*/
-  
-/*@media (min-width: 768px) {
-
-.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
-  font-size: 16px; }
-.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-  font-size: 22px; } }*/
 
 .call-to-action {
   padding: 50px 0; }
@@ -781,12 +809,16 @@ header.masthead {
   background-attachment: scroll;
   height: 100vh;
   }
-header.serviceHero .header-content {
+/*header.serviceHero .header-content {
   position: relative;
   text-align: center;
   width: 100%;
   padding: 130px 15px 100px;
-   }
+   }*/
+header.serviceHero .header-content .header-content-inner {
+    padding-left: 0%;
+    padding-top: 0px;
+}
 .ScrollDown {
   display: none;
 }
@@ -808,7 +840,11 @@ footer {
   .ScrollDown {
     display: none;
 }}*/
-
+@media (min-width: 1200px) {
+  .service-box-home p{
+    font-size: 18px;
+  }
+}
 @media screen and (min-width: 1920px) {
 header.masthead .header-content .header-content-inner {
     max-width: 600px;

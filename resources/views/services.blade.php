@@ -2,7 +2,7 @@
 
 @section ('content')
 <div class="hidden">
-<header class="serviceHero">
+<header class="serviceHero" id="servicePageImg">
       <div class="header-content">
         <div class="header-content-inner sr-text">
           <h1 id="homeHeading">Services</h1>
@@ -141,8 +141,8 @@
         <div class="col-lg-12  text-center sr-contact">
          <i class="fa fa-4x fa-envelope text-primary sr-icons" aria-hidden="true"></i>
             <h2 class="section-heading">Let's Connect Today</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel porta purus. Aliquam in elit quis neque fringilla mollis quis quis lacus. Proin ac dapibus felis, hendrerit semper purus. </p>
-            <div class="viewMoreBtn">
+            <p class="text-center">We are dedicated to helping you redefine and transform the role that Information Technology plays in your business. Let's Connect Today!</p>
+            <div class="contactBtn">
             <a class="btn btn-primary btn-xl sr-button" style="color: white; box-shadow: none;" href="/contact">Contact</a>
         </div>        
         </div>

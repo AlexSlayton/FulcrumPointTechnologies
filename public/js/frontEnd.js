@@ -36,9 +36,9 @@
     });
 
 
-    // Closes responsive menu when a link is clicked
+    // responsive menu when a link is clicked (when active causing issue with desktop nav click)
     // $('.navbar-collapse>ul>li>a').click(function() {
-    //     $('.navbar-collapse').collapse('hide');
+    //     $('.navbar-collapse').collapse('show');
     // });
 
     // Collapse the navbar when page is scrolled

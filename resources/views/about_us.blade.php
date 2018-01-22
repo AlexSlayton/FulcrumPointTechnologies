@@ -2,7 +2,7 @@
 
 @section ('content')
 <div class="hidden">
-<header class="serviceHero">
+<header class="serviceHero" id="aboutUsImg">
       <div class="header-content">
         <div class="header-content-inner sr-text">
           <h1 id="homeHeading">Who We Are</h1>

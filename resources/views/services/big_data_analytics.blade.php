@@ -2,7 +2,7 @@
 
 @section ('content')
 
-<header class="serviceHero">
+<header class="serviceHero" id="bigDataImg">
       <div class="header-content">
         <div class="header-content-inner sr-text">
           <h1 id="homeHeading">Big Data Analytics</h1>
@@ -118,6 +118,79 @@
         </div>
       </div>
     </section> -->
+<section class="mobileOnly">
+
+      <div class="container">
+       <div class="row">
+        <div class="col-lg-12 text-center">
+        <div class="col-lg-12 text-center">
+          <a class="allItemsClick" data-toggle="collapse" data-target=".allItems" aria-expanded="false" aria-controls="allItems"><p class="showAllBtn">Show All</p></a>
+
+          <br>
+
+        </div>
+
+          <br>
+
+        <div class="text-center">
+          <h3>Analytics &#38; Data Intelligence<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#toggle1" aria-expanded="false" aria-controls="collapseExample"></a></h3>
+
+        <div class="collapse allItems" id="toggle1">
+        <div class="card card-body">  
+          <p>We will help your team transform raw data into actionable intelligence.  With a proven rapid approach to building data warehouses, reporting solutions, and transactional systems that interact with data, we can deliver valuable solutions quickly, just as we’ve done for over 1500 companies world wide.</p>
+        </div>
+        </div>
+          
+          <br>
+
+          <h3>Hadoop Consulting &#38; Development<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#toggle2" aria-expanded="false" aria-controls="collapseExample"></a></h3>
+          
+        <div class="collapse allItems" id="toggle2">
+        <div class="card card-body">
+          <ul class="text-left">
+            <li>Interactive Business Analytics</li>
+            <li>Search &#38; Recommendation Engines</li>
+            <li>Data Mining, Data Aggregation, and Data Quality</li>
+            <li>Data Integration - web services and custom API</li>
+            <li>Algorithm Development for custom processes</li>
+            <li>Develop and re-engineering of business processes using Map-Reduce and NoSQL</li>
+            <li>Data and Spatial Visualization</li>
+            <li>Cluster Grams and History Flows</li>
+            <li>Forecasting and Predictive Analytics</li>
+            <li>Scoring, Pattern Search, and Rules Discovery</li>
+            <li>Data Integration with ERP and applications</li>
+          </ul>
+        </div>
+        </div>
+
+          <br>
+
+          <h3>Hadoop Design, Architecture, and Services<br>
+          <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#toggle3" aria-expanded="false" aria-controls="collapse"></a></h3>
+
+        <div class="collapse allItems" id="toggle3">
+        <div class="card card-body">
+          <ul class="text-left">
+            <li>Technology Assessment</li>
+            <li>Architecture Strategy, Design, Roadmap</li>
+            <li>Proof of Value with Prototyping Development using Hadoop Tools</li>
+            <li>Performance and Scalability with Hadoop Cluster Deployments (HDFS)</li>
+            <li>Automation for Deployments, Administration, and Performance Monitoring</li>
+            <li>Implementation, Customization, and Optimization of Hadoop (Cloudera or Hortonworks)</li>
+            <li>Integration with RDBMS and BI Tools</li>
+            <li>Implementation Services on Hadoop ecosystem (Ambari, HBase, Hive, Sqoop, Pig, and etc.)</li>
+          </ul>
+        </div>
+        </div>
+            
+        </div>
+        </div>
+        </div>
+      </div>
+  
+    </section>
 
 <section class="sectionColor">
       <div class="jumbotron">

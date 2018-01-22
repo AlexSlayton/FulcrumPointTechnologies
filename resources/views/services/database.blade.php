@@ -2,7 +2,7 @@
 
 @section ('content')
 
-<header class="serviceHero">
+<header class="serviceHero" id="databaseImg">
       <div class="header-content">
         <div class="header-content-inner sr-text">
           <h1 id="homeHeading">Database Services</h1>
@@ -98,7 +98,8 @@
       </div>
 
     </section>
-
+    
+<!-- Mobile Only Section for resolution @max 992px -->
 <section class="mobileOnly">
 
       <div class="container">
