@@ -16,9 +16,17 @@
       <div class="container" style="padding-bottom: 0px;">
         <div class="row">
         <div class="col-lg-12 text-center">
+
+          <aside class="aside">
+          
+
+            <div class="asideImg" id="governanceAsideImg"></div>
+
+          
+        </aside>
             
 
-        <div class="col-lg-12 text-left">
+        <div class="col-lg-8 text-left">
           <h4>Fulcrum is focused on delivering high valued Governance, Risk Management, and Strategic Advisory solutions.</h4>
 
           <p><i class="fa fa-plus" aria-hidden="true"></i> IT and Business controls development and effectiveness monitoring</p>

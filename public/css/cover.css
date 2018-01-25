@@ -259,8 +259,38 @@ body {
   -o-background-size: cover;
   background-size: cover;
   height: 150px;
+}
+#bigDataAsideImg {
+  background-image: url("/img/bigdata1.jpg");
+}
+#cloudAsideImg {
+  background-image: url("/img/clouds-FPT.jpg");
+}
+#databaseAsideImg {
+  background-image: url("/img/data.jpg");
+}
+#devOpsAsideImg {
+  background-image: url("/img/developer.jpg");
+}
+#governanceAsideImg {
+  background-image: url("/img/governance.jpg");
+}
+#projectManagementAsideImg {
+  background-image: url("/img/projectmanagement.jpg");
+}
+#securityAsideImg {
+  background-image: url("/img/security2.jpg");
+}
+#strategicPlanningAsideImg {
   background-image: url("/img/chess.jpg");
 }
+#technologyAsideImg {
+  background-image: url("/img/computercity.jpg");
+}
+#vendorManagementAsideImg {
+  background-image: url("/img/vendormanagement.jpg");
+}
+
 .quickLinkList {
   padding-top: 10px;
 }
@@ -401,34 +431,34 @@ header.serviceHero {
   background-size: cover;
   }
 #bigDataImg {
-  background-image: url("/img/FPTservicehero.jpg");
+  background-image: url("/img/bannerimg1a-FPT.png");
 }
 #cloudImg {
-  background-image: url("/img/FPTservicehero.jpg");
+  background-image: url("/img/bannerimg2a-FPT.png");
 }
 #databaseImg {
-  background-image: url("/img/FPTservicehero.jpg");
+  background-image: url("/img/bannerimg3a-FPT.png");
 }
 #devOpsImg {
-  background-image: url("/img/FPTservicehero.jpg");
+  background-image: url("/img/bannerimg4a-FPT.png");
 }
 #governanceImg {
-  background-image: url("/img/FPTservicehero.jpg");
+  background-image: url("/img/bannerimg5a-FPT.png");
 }
 #projectManagementImg {
-  background-image: url("/img/ProjectMan.jpg");
+  background-image: url("/img/bannerimg6a-FPT.png");
 }
 #securityImg {
-  background-image: url("/img/FPTservicehero.jpg");
+  background-image: url("/img/bannerimg7a-FPT.png");
 }
 #strategicPlanningImg {
-  background-image: url("/img/FPTservicehero.jpg");
+  background-image: url("/img/bannerimg8a-FPT.png");
 }
 #technologyImg {
-  background-image: url("/img/FPTservicehero.jpg");
+  background-image: url("/img/bannerimg9a-FPT.png");
 }
 #vendorManagementImg {
-  background-image: url("/img/FPTservicehero.jpg");
+  background-image: url("/img/bannerimg10a-FPT.png");
 }
 #aboutUsImg {
   background-image: url("/img/FPTservicehero.jpg");
@@ -542,7 +572,7 @@ header.masthead .header-content .header-content-inner p {
   margin-right: auto;
   margin-left: 0; }
 header.serviceHero .header-content .header-content-inner h1 {
-  font-size: 45px;
+  font-size: 40px;
   font-family: Raleway; }
 header.serviceHero .header-content .header-content-inner p {
   font-size: 20px;
@@ -589,7 +619,7 @@ header.serviceHero .header-content .header-content-inner p {
     border: solid .5px lightgrey;
     border-radius: 10px;
     padding: 15px;
-    min-height: 450px;
+    min-height: 420px;
     background-color: white;
 }
 header.serviceHero .header-content .header-content-inner {

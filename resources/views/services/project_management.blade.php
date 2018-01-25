@@ -19,6 +19,9 @@
 
         <aside class="aside">
           <h3>Quick Links</h3>
+
+            <div class="asideImg" id="projectManagementAsideImg"></div>
+
             <ul style="list-style: none; padding: 0px;">
               <li class="quickLinkList"><a class="page-scroll" href="#1"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Plan Development</a></li>
               <li class="quickLinkList"><a class="page-scroll" href="#2"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Time Management</a></li>

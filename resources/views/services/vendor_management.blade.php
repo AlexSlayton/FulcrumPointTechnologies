@@ -19,6 +19,9 @@
 
         <aside class="aside">
           <h3>Quick Links</h3>
+
+            <div class="asideImg" id="vendorManagementAsideImg"></div>
+
             <ul style="list-style: none; padding: 0px;">
               <li class="quickLinkList"><a class="page-scroll" href="#1"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Risk Mitigation</a></li>
               <li class="quickLinkList"><a class="page-scroll" href="#2"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Performance Metrics</a></li>
@@ -109,7 +112,7 @@
           <p><strong>While there are many factors that go into a successful Vender Management Program; there are three critical factors that must be present in a Vendor Management Program - Risk Mitigation, Performance Metrics and Operational Oversight.</strong></p>
 
           <br>
-          
+
           <a class="allItemsClick" data-toggle="collapse" data-target=".allItems" aria-expanded="false" aria-controls="allItems"><p class="showAllBtn">Show All</p></a>
 
           <br>

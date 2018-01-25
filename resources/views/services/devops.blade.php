@@ -23,7 +23,7 @@
         <aside class="aside">
           <h3>Quick Links</h3>
 
-<div class="asideImg"></div>
+            <div class="asideImg" id="devOpsAsideImg"></div>
 
             <ul style="list-style: none; padding: 0px;">
               <li class="quickLinkList"><a class="page-scroll" href="#1"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Full Suite of Onshore/Nearshore Development Services</a></li>

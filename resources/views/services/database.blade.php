@@ -19,6 +19,9 @@
 
         <aside class="aside">
           <h3>Quick Links</h3>
+
+            <div class="asideImg" id="databaseAsideImg"></div>
+
             <ul style="list-style: none; padding: 0px;">
               <li class="quickLinkList"><a class="page-scroll" href="#1"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Proactive Expert Managed Services</a></li>
               <li class="quickLinkList"><a class="page-scroll" href="#2"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Health Checks &#38; Performance Tuning Services</a></li>
@@ -98,7 +101,7 @@
       </div>
 
     </section>
-    
+
 <!-- Mobile Only Section for resolution @max 992px -->
 <section class="mobileOnly">
 
