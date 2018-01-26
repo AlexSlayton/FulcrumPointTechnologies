@@ -35,6 +35,10 @@
         offset: 148
     });
 
+    $(document).ready(function(){
+    $('.dropdown-toggle').dropdown();
+});
+
 
     // responsive menu when a link is clicked (when active causing issue with desktop nav click)
     // $('.navbar-collapse>ul>li>a').click(function() {
