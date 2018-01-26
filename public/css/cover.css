@@ -358,7 +358,7 @@ footer {
   text-transform: uppercase;
   color: #222222; }
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover,
-#mainNav .navbar-nav > li.nav-item > a.nav-link:hover {
+#mainNav .navbar-nav > li.nav-item > a.nav-link {
   color: #359392; }
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active,
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
@@ -431,7 +431,9 @@ header.serviceHero {
   background-size: cover;
   }
 #bigDataImg {
-  background-image: url("/img/bannerimg1a-FPT.png");
+  background: grey;
+  background: linear-gradient(150deg, #1e1e1e, #1e1e1e, #359392);
+  border-bottom: solid 4px #359392;
 }
 #cloudImg {
   background-image: url("/img/bannerimg2a-FPT.png");
