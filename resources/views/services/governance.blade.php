@@ -7,7 +7,6 @@
         <div class="header-content-inner sr-text">
           <h1 id="homeHeading">Governance</h1>
           <br>
-            <!-- <p></p> -->
         </div>
       </div>
 </header>
@@ -18,11 +17,7 @@
         <div class="col-lg-12 text-center">
 
           <aside class="aside">
-          
-
-            <div class="asideImg" id="governanceAsideImg"></div>
-
-          
+            <div class="asideImg" id="governanceAsideImg"></div>          
         </aside>
             
 
@@ -81,9 +76,7 @@
           <p><i class="fa fa-plus" aria-hidden="true"></i> Audit Readiness and Response</p>
             
           <p><i class="fa fa-plus" aria-hidden="true"></i> Establish Responsible, Accountable, Consulted and Informed(RACI) Matrix</p>
-
-          
-            
+      
         </div>
         </div>
         </div>

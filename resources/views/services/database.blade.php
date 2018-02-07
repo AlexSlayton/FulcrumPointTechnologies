@@ -7,7 +7,6 @@
         <div class="header-content-inner sr-text">
           <h1 id="homeHeading">Database Services</h1>
           <br>
-            <!-- <p>Fulcrum Point Technologies has solutions to fit all your Database needs.</p> -->
         </div>
       </div>
 </header>

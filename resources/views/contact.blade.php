@@ -1,21 +1,17 @@
 @extends ('layouts.master')
 
 @section ('content')
-<div class="hidden">
-<header class="contactHead">
-
+<header class="serviceHero" id="fadedHero">
+      <div class="header-content">
+        <div class="header-content-inner sr-text">
+          <h1 id="homeHeading" style="font-size: 30px;">Contact</h1>
+      
+            <p>Fulcrum Point Technologies is an Innovation and Solution provider that specializes in Operational and Technology optimization.</p>
+        </div>
+      </div>
 </header>
 
-<div class="col-md-12">
-<div class="successAlert">
-<!-- Email success message -->
-@if (session('status'))
-    <div class="alert alert-success">
-        {{ session('status') }}
-    </div>
-@endif
-</div>
-</div>
+</header>
 
 <div class="contactBottom">
 <div class="container">
@@ -85,6 +81,13 @@
                     <textarea id="form_message" name="message" class="form-control" placeholder="Message:" rows="4" required="required" data-error="Please,leave us a message."></textarea>
                     <div class="help-block with-errors"></div>
                 </div>
+
+                    <!-- Email success message -->
+                    @if (session('status'))
+                        <div class="alert alert-success text-center">
+                        {{ session('status') }}
+                        </div>
+                    @endif
             </div>
         
             <div class="col-md-12">
@@ -102,7 +105,7 @@
 </div>
 </div>
 
-    </div>
+
 </div>
 </div>
 </div>

@@ -7,7 +7,6 @@
         <div class="header-content-inner sr-text">
           <h1 id="homeHeading">Vendor Management</h1>
           <br>
-            <!-- <p></p> -->
         </div>
       </div>
 </header>

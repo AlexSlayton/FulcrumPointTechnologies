@@ -16,17 +16,26 @@
         }
     });
 
+    // Hero text bumps up on page load
+    $(document).ready(function() {
+        $('.bumpUp').animate({
+            top: - 50   
+        }, 1000);
+    });
+    
+
+    // Quick Link scrolling
     $('a.page-scroll').bind('click', function(event) {
         var $anchor = $(this);
         $('html, body').stop().animate({
-            scrollTop: ($($anchor.attr('href')).offset().top - 100)
+            scrollTop: ($($anchor.attr('href')).offset().top - 70)
         }, 1250, 'easeInOutExpo');
         event.preventDefault();
     });
 
     //fade in on page load
     $(document).ready(function () {
-    $('div.hidden').fadeIn(2000).removeClass('hidden');
+    $('div.hidden').fadeIn(1000).removeClass('hidden');
     });
 
     // Activate scrollspy to add active class to navbar items on scroll
@@ -39,31 +48,27 @@
     $('.dropdown-toggle').dropdown();
 });
 
+    // mobile back to top button
+    $(window).scroll(function() {
+    if (document.body.scrollTop > 130 || document.documentElement.scrollTop > 130) {
+        $('div.backToTop').fadeIn(700);
+        document.getElementById("topPage").style.display = "block";
 
-    // responsive menu when a link is clicked (when active causing issue with desktop nav click)
-    // $('.navbar-collapse>ul>li>a').click(function() {
-    //     $('.navbar-collapse').collapse('show');
-    // });
+    } else {
+        // document.getElementById("topPage").style.display = "none";
+        $('div.backToTop').fadeOut(700);
+    }
+
+});
 
     // Collapse the navbar when page is scrolled
     $(window).scroll(function() {
-        if ($("#mainNav").offset().top > 80) {
+        if ($("#mainNav").offset().top > 50) {
             $("#mainNav").addClass("navbar-shrink");
         } else {
             $("#mainNav").removeClass("navbar-shrink");
         }
     });
-
-    // Bumb right when hovering
-    // $('ul').find('li').hover(function() {
-    // $(this).animate({
-    //     'padding-left':'3px'
-    // },100);
-    // }, function() {
-    // $(this).animate({
-    //     'padding-left':'0px'
-    // },100);
-    // });
 
     // Scroll down button motion
     $('.ScrollDown').hover(function() {
@@ -92,6 +97,11 @@
         scale: 0.9,
         distance: '10px'
     }, 300);
+    // sr.reveal('.bumpLeft', {
+    //     duration: 2000,
+    //     scale: 0,
+    //     distance: '100px'
+    // }, 700);
 
     // Rotates the chevron drop text
     $(".rotate").click(function(){

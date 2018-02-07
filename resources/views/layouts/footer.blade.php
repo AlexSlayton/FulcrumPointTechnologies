@@ -1,49 +1,4 @@
-<!-- FOOTER -->
-<!-- <footer>
-	<div class="footerInfo">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-4 text-left">
-				<h5><a href="/">HOME</a></h5>
-				<h5><a href="/services">SERVICES</a></h5>
-				<ul class="list-unstyled" style="font-size: 12px;">
-			  		<li><a href="/services/big_data_analytics">Big Data Analytics</a></li>
-              		<li><a href="/services/database">Database Services</a></li>
-              		<li><a href="/services/security">Security</a></li>
-              		<li><a href="/services/technology">Technology</a></li>
-              		<li><a href="/services/governance">Governance</a></li>
-              		<li><a href="/services/devops">DevOps</a></li>
-              		<li><a href="/services/project_management">Project Management</a></li>
-              		<li><a href="/services/strategic_planning">Strategic Planning</a></li>
-              		<li><a href="/services/cloud_services">Cloud Services</a></li>
-              		<li><a href="/services/vendor_management">Vendor Management</a></li>
-              	</ul>
-              	<h5><a href="/about_us">WHO WE ARE</a></h5>
-              	<h5><a href="/contact">CONTACT</a></h5>
-			</div>
-
-              <div class="col-md-4 text-center">
-              	<a href="/"><img src="/img/FPT-logo-white-v2.png" height="50px"></a>
-              </div>
-
-            <div class="col-md-4 text-right">
-            	<p style="text-align: right;"><span><i class="fa fa-envelope" aria-hidden="true"></i></span>info@me.com</p>
-            	<p style="text-align: right;"><span><i class="fa fa-phone" aria-hidden="true"></i></span>444.444.4444</p>
-            	<p style="text-align: right;"><span><i class="fa fa-address-card" aria-hidden="true"></i></span>123 big st dallas texas</p>
-            </div>
-
-			
-		</div>
-	</div>
-
-        <p class="float-right"><a href="#page-top">Back to top</a></p>
-        <p>&copy; 2017 Fulcrum Point Technologies, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
-    </div>
-
-</footer> -->
-
-
-<!--Footer-->
+<!-- Footer -->
 <footer class="page-footer center-on-small-only blue-grey lighten-5 pt-0">
 
   
@@ -106,11 +61,29 @@
 
     <!-- Copyright-->
     <div class="footer-copyright">
-        <div class="container-fluid">
-            © 2017 Copyright: <a href="https://www.fulcrumpointtechnologies.com"><strong>2017 Fulcrum Point Technologies, Inc.</strong></a>
+        <div class="gcp">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6 footerText1" style="padding-bottom: 10px;">
+            © 2018 Copyright: <a href="http://www.fulcrumpointtechnologies.com"><strong>2018 Fulcrum Point Technologies, Inc.</strong></a>
+        </div>
+            
+            <div class="col-sm-6 footerText2">
+            
+            <a href="http://www.gulfcoastpixel.com" target="_blank" style="color: white; font-size: 13px;">Crafted By<img class="gcpLogo text-right" src="/img/GCP-whitelogo.png"></a>
+        </div>
+    </div>
+    </div>
         </div>
     </div>
     <!--/.Copyright -->
+
+    <!-- <div class="col-sm-12 text-center">
+        <div class="gcp">
+            <h6 style="font-size: 13px; color: white;">CRAFTED BY</h6>
+            <a href="http://www.gulfcoastpixel.com" target="_blank"><img class="gcpLogo" src="/img/GCP-whitelogo.png"></a>
+        </div>
+    </div> -->
     
 </footer>
-<!--/.Footer-->
+<!--/.Footer

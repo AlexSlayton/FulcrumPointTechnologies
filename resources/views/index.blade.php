@@ -6,8 +6,9 @@
     <div class="hidden">
     
       <div class="header-content">
-        <div class="header-content-inner sr-text">
-          <h1 id="homeHeading">Proven Technology Leaders</h1>
+        <div class="header-content-inner">
+          <div class="bumpUp">
+          <h1 id="homeHeadingHero">Proven Technology Leaders</h1>
           <br>
             <p>Welcome to Fulcrum Point Technologies, where we are dedicated to helping you redefine and transform the role that Information Technology plays in <span style="font-weight: bold;">your business</span>.</p>
           <div class="btn-hero">
@@ -15,7 +16,7 @@
           </div>
           <div class="btn-hero">
             <a class="btn btn-primary btn-xl" style="color: white; box-shadow: none;" href="/services">Services</a>
-          </div>          
+          </div> </div>         
       </div>
       <div class="ScrollDown">
           <a href="#services"><i class="fa fa-5x fa-angle-double-down" aria-hidden="true"></i></a>
@@ -44,13 +45,15 @@
         <div class="row">
           
           <div class="col-lg-4 text-center">
+            <div class="bumpLeft">
             <div class="service-box-home">
               <i class="fa fa-4x fa-cloud text-primary sr-icons" aria-hidden="true"></i>
               <h5>Cloud Services</h5>
-              <p class="text-muted text-center serviceBoxText">Whether your company’s Cloud Services requirements are IaaS, SaaS, PaaS or you need more insight into Private and Public Cloud offerings, Fulcrum Point Technologies can provide a Cloud Readiness Assessment to determine the best solution.</p>
-              <div class="learnMoreBtn">
-               <a class="btn btn-primary btn-xl" href="/services/cloud_services">Learn More</a>
+              <p class="text-muted text-center">We provide a Cloud Readiness Assessment to determine the best solution.<!-- Whether your company’s Cloud Services requirements are IaaS, SaaS, PaaS or you need more insight into Private and Public Cloud offerings, Fulcrum Point Technologies can provide a Cloud Readiness Assessment to determine the best solution. --></p>
+              <div class="learnMoreText">
+               <a href="/services/cloud_services" style="color: #359392;">LEARN MORE &nbsp;</a><i class="fa fa-1x fa-angle-right"></i>
               </div>
+            </div>
             </div>
           </div>
 
@@ -58,9 +61,9 @@
             <div class="service-box-home">
               <i class="fa fa-4x fa-globe text-primary sr-icons" aria-hidden="true"></i>
               <h5>Strategic Planning</h5>
-              <p class="text-muted text-center serviceBoxText">Our team of Technology Strategists will work with your Technology Leaders to assist in aligning your IT strategy with your Business Goals and Objectives.</p>
-              <div class="learnMoreBtn">
-                <a class="btn btn-primary btn-xl" href="/services/strategic_planning">Learn More</a>
+              <p class="text-muted text-center">We collaborate to assist in aligning your IT strategy with your Business Goals &#38; Objectives.<!-- Our team of Technology Strategists will work with your Technology Leaders to assist in aligning your IT strategy with your Business Goals and Objectives. --></p>
+              <div class="learnMoreText">
+                <a href="/services/strategic_planning" style="color: #359392;">LEARN MORE &nbsp;</a><i class="fa fa-1x fa-angle-right"></i>
               </div>
             </div>
           </div>
@@ -69,9 +72,9 @@
             <div class="service-box-home">
               <i class="fa fa-4x fa-cogs text-primary sr-icons" aria-hidden="true"></i>
               <h5>Technology Services</h5>
-              <p class="text-muted text-center serviceBoxText">Whether you are looking to optimize your current On-premise solution or your desire is to move to an IaaS, SaaS, PaaS, Cloud, Hybrid or various levels of managed services, Fulcrum Point Technologies will work with your team to identify and implement the right solution to meet your needs.</p>
-              <div class="learnMoreBtn">
-                <a class="btn btn-primary btn-xl" href="/services/technology">Learn More</a>
+              <p class="text-muted text-center">We work with your team to identify and implement the right solution to meet your needs.<!-- Whether you are looking to optimize your current On-premise solution or your desire is to move to an IaaS, SaaS, PaaS, Cloud, Hybrid or various levels of managed services, Fulcrum Point Technologies will work with your team to identify and implement the right solution to meet your needs. --></p>
+              <div class="learnMoreText">
+                <a href="/services/technology" style="color: #359392;">LEARN MORE &nbsp;</a><i class="fa fa-1x fa-angle-right"></i>
               </div>
             </div>
             </div>
@@ -85,7 +88,7 @@
       </div>
     </section>
     
-    <section class="sectionColor">
+    <section class="sectionColor" >
       <div class="jumbotron">
         <div class="connectMain">    
         <div class="col-lg-12  text-center sr-contact">

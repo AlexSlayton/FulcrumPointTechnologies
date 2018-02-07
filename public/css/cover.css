@@ -11,7 +11,7 @@ div.hidden {
 }
 
 hr {
-  max-width: 50px;
+  max-width: 100%;
   border-width: 3px;
   border-color: #359392; }
 
@@ -33,7 +33,19 @@ h4,
 h5,
 h6 {
   font-family: Raleway; }
-
+h2,
+h3,
+p,
+ul {
+  color: #585858;
+}
+h2 {
+  font-size: 2.5rem;
+  font-weight: 600;
+}
+h3 {
+  font-size: 2.1rem;
+}
 p {
   font-size: 18px;
   line-height: 1.5;
@@ -85,7 +97,9 @@ section {
   padding-bottom: 50px;
 }
 #servicesList p{
-  font-size: 16px;
+  font-size: 18px;
+  text-align: center;
+  height: 100px;
 }
 .section-heading {
   margin-top: 0;
@@ -130,7 +144,24 @@ body {
   padding-left: 20%;
   padding-right: 20%;
 }*/
-
+#topPage {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 10px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: #1e1e1e;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  opacity: .5;
+}
+#topPage a {
+  text-decoration: none;
+  color: white;
+}
 .btn-hero {
   color: white;
   margin-right: 5%;
@@ -148,6 +179,12 @@ body {
 .learnMoreBtn {
   text-align: center;
 }
+.learnMoreText {
+  color: #359392;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
 .jumbotron {
   
   padding-left: 0px;
@@ -160,12 +197,21 @@ body {
   padding-bottom: 0px;
   padding-top: 0px;
 }
+.sectionColor h2 {
+  color: white;
+}
+.sectionColor p {
+  color: white;
+}
 .connectMain {
   color: white;
   margin-top: 35px;
   margin-bottom: 35px;
   /*padding-left: 23%;
   padding-right: 23%;*/
+}
+.connectMain h2 {
+  font-size: 2rem;
 }
 .yoMama {
   padding-top: 23px;
@@ -201,9 +247,14 @@ body {
   padding-top: 15px;
 }
 .alert {
-  margin-left: 10%;
-  margin-right: 10%;
-  text-align: center;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+.alert-success {
+  color: #202222;
+  background-color: #dfdfdf;
+  border-color: #359392;
 }
 .ScrollDown {
   position: relative;
@@ -211,22 +262,6 @@ body {
   padding-top: 70px;
   padding-bottom: 0;
 }
-/*.sideBarNav {
-  z-index: 2;
-  right: 0;
-  top: 0;
-  margin-top: 320px;
-  font-size: 14px;
-  margin-right: 10%;
-  padding: 10px;
-  height: 400px;
-  width: 300px;
-  max-width: 900px;
-  position: fixed;
-  border: solid 1px #359392;
-  border-radius: 5px;
-  background-color: white;
-}*/
 
 .aside {
   font-size: 14px;
@@ -238,19 +273,7 @@ body {
   /* position sticky */
   position: -webkit-sticky;
   position: sticky;
-  top: 6em;
-}
-.aside {
-  font-size: 14px;
-  text-align: left;
-  background: #eee;
-  float: right;
-  width: 32%;
-  padding: 1em;
-  /* position sticky */
-  position: -webkit-sticky;
-  position: sticky;
-  top: 6em;
+  top: 5em;
 }
 .asideImg {
   background-position: center;
@@ -300,6 +323,11 @@ body {
 .quickLinkList a:hover {
   color: black;
 }
+.bumpUp {
+  position: relative;
+  margin: none;
+  padding: none;
+}
 
 footer {
   color: white;
@@ -307,7 +335,9 @@ footer {
   padding-right: 10%;
   padding-left: 10%;
   border-top: double 10px #359392;
-
+}
+footer p {
+  color: white;
 }
 .footerContact {
   font-size: 13px; line-height: 1.2rem; padding-bottom: 10px;
@@ -319,11 +349,29 @@ footer {
 .footerList {
   list-style: none;
 }
+.footer-copyright ,
+.footer-copyright a {
+  display: inline;
+  vertical-align: bottom;
+}
+.footerText1 {
+  text-align: left;
+}
+.footerText2 {
+  text-align: right;
+}
+.gcp {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.gcpLogo {
+  height: 60px;
+  display: inline;
+
+}
 .pt-0 {
     padding-top: 15px!important;
 }
-
-
 .navbar-toggler {
     padding: .25rem 1.5rem;
     font-size: 1.3rem;
@@ -334,8 +382,9 @@ footer {
 }
 #mainNav {
   border-color: rgba(34, 34, 34, 0.05);
-  background-color: #b9b9b9;
+  background-color: #1e1e1e;
   font-family: Raleway;
+  border-bottom: 3px solid #359392;
   -webkit-transition: all .5s;
   -moz-transition: all .5s;
   transition: all 1.5s; }
@@ -353,7 +402,7 @@ footer {
   color: blue; }
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus,
 #mainNav .navbar-nav > li.nav-item > a.nav-link {
-  font-size: 25px;
+  font-size: 22px;
   font-weight: bold;
   text-transform: uppercase;
   color: #222222; }
@@ -371,10 +420,13 @@ footer {
 @media (min-width: 992px) {
 
 #mainNav {
-  border-color: rgba(255, 255, 255, 0.3);
+  /*border-color: rgba(255, 255, 255, 0.3);*/
+  border-bottom: none;
   background-color: transparent;
   padding-right: 10%;
-  padding-left: 10%; }
+  padding-left: 10%;
+  height: 50px;
+  padding-top: 10px; }
 #mainNav .navbar-brand {
   color: rgba(53, 147, 146, 0.9); }
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
@@ -388,7 +440,8 @@ footer {
   color: #359392; }
 #mainNav.navbar-shrink {
   border-color: rgba(34, 34, 34, 0.05);
-  background-color: darkgrey;
+  background-color: #1e1e1e;
+  height: 50px;
   opacity: .9 }
 #mainNav.navbar-shrink .navbar-brand {
   font-size: 16px;
@@ -400,23 +453,26 @@ footer {
   color: rgba(168, 199, 199); }
 #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
 #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-  color: #14232a; } }
+  color: #359392; } }
 
-.contactHead {
+/*.contactHead {
   position: relative;
   width: 100%;
-  height: 400px;
+  height: 250px;
   min-height: auto;
   text-align: left;
   color: white;
-  background-image: url("/img/FPT-services.jpg");
+  background-image: url("/img/bannerimg10a-FPT.png");
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   margin-bottom: 10px;
-  } 
+  } */
+#homeHeading {
+  padding-bottom: 10px;
+}
 header.serviceHero {
   position: relative;
   width: 100%;
@@ -432,41 +488,81 @@ header.serviceHero {
   }
 #bigDataImg {
   background: grey;
-  background: linear-gradient(150deg, #1e1e1e, #1e1e1e, #359392);
+  background: linear-gradient(150deg, #1e1e1e, #2c2f2f, #359392);
   border-bottom: solid 4px #359392;
 }
 #cloudImg {
-  background-image: url("/img/bannerimg2a-FPT.png");
+  background: grey;
+  background: linear-gradient(170deg, #1e1e1e, #1e5857, #243737);
+  border-bottom: solid 4px #359392;
 }
 #databaseImg {
-  background-image: url("/img/bannerimg3a-FPT.png");
+  background: grey;
+  background: linear-gradient(30deg, #1e1e1e, #313b3b, #359392);
+  border-bottom: solid 4px #359392;
 }
 #devOpsImg {
-  background-image: url("/img/bannerimg4a-FPT.png");
+  background: grey;
+  background: linear-gradient(130deg, #1e1e1e, #345c5b, #4f5252);
+  border-bottom: solid 4px #359392;
 }
 #governanceImg {
-  background-image: url("/img/bannerimg5a-FPT.png");
+  background: grey;
+  background: linear-gradient(50deg, #1e1e1e, #104140, #359392);
+  border-bottom: solid 4px #359392;
 }
 #projectManagementImg {
-  background-image: url("/img/bannerimg6a-FPT.png");
+  background: grey;
+  background: linear-gradient(40deg, #1e1e1e, #014948, #359392);
+  border-bottom: solid 4px #359392;
 }
 #securityImg {
-  background-image: url("/img/bannerimg7a-FPT.png");
+  background: grey;
+  background: linear-gradient(100deg, #1e1e1e, #359392, #243b3a);
+  border-bottom: solid 4px #359392;
 }
 #strategicPlanningImg {
-  background-image: url("/img/bannerimg8a-FPT.png");
+  background: grey;
+  background: linear-gradient(10deg, #1e1e1e, #214b4a, #359392);
+  border-bottom: solid 4px #359392;
 }
 #technologyImg {
-  background-image: url("/img/bannerimg9a-FPT.png");
+  background: grey;
+  background: linear-gradient(80deg, #1e1e1e, #123534, #359392);
+  border-bottom: solid 4px #359392;
 }
 #vendorManagementImg {
-  background-image: url("/img/bannerimg10a-FPT.png");
+  background: grey;
+  background: linear-gradient(20deg, #1e1e1e, #1f4544, #359392);
+  border-bottom: solid 4px #359392;
 }
-#aboutUsImg {
-  background-image: url("/img/FPTservicehero.jpg");
+#fadedHero {
+  background: #1e1e1e;
+  background: linear-gradient(100deg, #1e1e1e, #11403f, #264f4e,#1c4242, #314b4a);
+  border-bottom: solid 4px #359392;
+}
+.aboutUsPics {
+  position: relative;
+  width: 100%;
+  height: 200px;
+  min-height: auto;
+  object-fit: contain;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  float: left;
+  margin-bottom: 20px;
+}
+#solutionImg {
+  background-image: url("/img/solutionImg.jpg");
+}
+#winImg {
+  background: url("/img/winImg.jpg");
 }
 #servicePageImg {
-  background-image: url("/img/FPTservicehero.jpg");
+  background-image: url("/img/bannerimg10a-FPT.png");
 }
 .serviceTopStyle {
   padding-top: 170px;
@@ -485,6 +581,7 @@ header.masthead {
   min-height: auto;
   text-align: left;
   color: white;
+  background-color: #1e1e1e;
   background-image: url("/img/FulcrumPointHero.png");
   background-position: center;
   -webkit-background-size: cover;
@@ -508,7 +605,7 @@ header.serviceHero .header-content {
   padding: 150px 15px 100px;
    }
 header.masthead .header-content .header-content-inner h1 {
-  font-size: 30px;
+  /*font-size: 30px;*/
   font-weight: 700;
   margin-top: 0;
   margin-bottom: 0;
@@ -522,7 +619,7 @@ header.serviceHero .header-content .header-content-inner h1 {
 header.masthead .header-content .header-content-inner hr {
   margin: 30px auto; }
 header.masthead .header-content .header-content-inner p {
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 300;
   margin-bottom: 50px;
   color: white; }
@@ -559,7 +656,7 @@ header.masthead .header-content .header-content-inner {
   max-width: 600px;
   margin-right: auto;
   margin-left: 60px;
-  padding-top: 150px; }
+  padding-top: 250px; }
 /*header.serviceHero .header-content .header-content-inner {
   max-width: 800px;
   margin-right: auto;
@@ -592,7 +689,7 @@ header.serviceHero .header-content .header-content-inner p {
 }*/ }
 
 .service-box {
-  /*max-width: 400px;*/
+  max-width: 350px;
   margin: 20px auto 0; }
 .service-box-home {
   /*max-width: 400px;*/
@@ -613,28 +710,25 @@ header.serviceHero .header-content .header-content-inner p {
     border: solid .5px lightgrey;
     border-radius: 10px;
     padding: 15px;
-    min-height: 405px;
+    min-height: 285px;
     background-color: white;
 }
 .service-box-home {
     box-shadow: 0px 10px 25px lightgrey;
-    border: solid .5px lightgrey;
+    border: .5px solid lightgrey;
     border-radius: 10px;
     padding: 15px;
-    min-height: 420px;
     background-color: white;
 }
 header.serviceHero .header-content .header-content-inner {
   max-width: 800px;
   margin-right: auto;
   padding-left: 10.5%;
-  padding-top: 100px; }
+  padding-top: 130px; }
 .service-box-home p {
     font-size: 15px;
 }
-.serviceBoxText {
-  height: 185px;
-}
+
 .learnMoreBtn {
   padding-top: 40px;
   padding-bottom: 10px;
@@ -646,6 +740,15 @@ header.serviceHero .header-content .header-content-inner {
 } }
 
 @media (max-width: 992px) {
+h2 {
+  font-size: 2rem;
+}
+.footerText1 {
+  text-align: center;
+}
+.footerText2 {
+  text-align: center;
+}
 .learnMoreBtn {
   padding-bottom: 50px;
   padding-top: 20px;
@@ -676,7 +779,7 @@ header.serviceHero .header-content .header-content-inner {
   }
 header.serviceHero .header-content .header-content-inner {
   padding-left: 0%;
-  padding-top: 75px; }
+  /*padding-top: 75px;*/ }
 header.serviceHero {
   height: 225px;
   }
@@ -684,8 +787,11 @@ header.serviceHero .header-content {
   position: relative;
   text-align: center;
   width: 100%;
-  padding: 130px 15px 100px;
+  padding-top: 105px;
    }
+header.serviceHero .header-content .header-content-inner p {
+  font-size: 14px;
+  text-align: center; }
 .card-body {
   margin-bottom: 10px;
 }
@@ -699,10 +805,11 @@ header.serviceHero .header-content {
   font-size: 1.3rem;
 }
 section {
-  padding: 50px 0;
+  padding: 30px 0;
   padding-bottom: 50px; }
 .sectionOff {
   padding: 0px;
+  padding-top: 30px;
 }
 }
 
@@ -781,7 +888,7 @@ fieldset[disabled] .btn-default:hover {
   box-shadow: 0px 10px 25px lightgrey; }
 .btn-primary.focus, .btn-primary:focus {
   color: white;
-  border-color: red;
+  border-color: grey;
   background-color: #afbabd; }
 .btn-primary:hover {
   color: white;
@@ -858,7 +965,6 @@ header.serviceHero .header-content .header-content-inner {
   text-align: center;
   margin-top: 0px;
   padding-top: 50px;
-  border-top: dashed 1px lightgrey;
 }
 .contactBtn {
   border-top: none;

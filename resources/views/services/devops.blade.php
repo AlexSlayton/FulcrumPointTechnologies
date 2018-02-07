@@ -12,13 +12,10 @@
       </div>
 </header>
 
-
 <section class="sectionOff desktopOnly">
       <div class="container">
        <div class="row">
         <div class="col-lg-12 text-center">
-
-      
 
         <aside class="aside">
           <h3>Quick Links</h3>

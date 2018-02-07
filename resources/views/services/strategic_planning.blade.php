@@ -7,7 +7,6 @@
         <div class="header-content-inner sr-text">
           <h1 id="homeHeading">Strategic Planning</h1>
           <br>
-            <!-- <p></p> -->
         </div>
       </div>
 </header>
@@ -105,7 +104,6 @@
       </div>
 
     </section>
-
 
 
 <!-- Mobile Only Section for resolution @max 992px -->
