@@ -51,12 +51,12 @@
     // mobile back to top button
     $(window).scroll(function() {
     if (document.body.scrollTop > 130 || document.documentElement.scrollTop > 130) {
-        $('div.backToTop').fadeIn(700);
+        $('div.backToTop').fadeIn(500);
         document.getElementById("topPage").style.display = "block";
 
     } else {
         // document.getElementById("topPage").style.display = "none";
-        $('div.backToTop').fadeOut(700);
+        $('div.backToTop').fadeOut(500);
     }
 
 });
