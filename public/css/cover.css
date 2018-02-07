@@ -777,6 +777,9 @@ h2 {
   background-size: cover;
   margin-bottom: 10px;
   }
+header.masthead .header-content .header-content-inner p {
+  margin-bottom: 25px;
+  }
 header.serviceHero .header-content .header-content-inner {
   padding-left: 0%;
   /*padding-top: 75px;*/ }
