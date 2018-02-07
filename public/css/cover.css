@@ -366,9 +366,8 @@ footer p {
   padding-bottom: 20px;
 }
 .gcpLogo {
-  height: 60px;
+  height: 65px;
   display: inline;
-
 }
 .pt-0 {
     padding-top: 15px!important;
@@ -807,6 +806,10 @@ header.serviceHero .header-content .header-content-inner p {
 }
 .h3, h3{
   font-size: 1.3rem;
+}
+.gcpLogo {
+  height: 50px;
+  display: inline;
 }
 section {
   padding: 30px 0;
