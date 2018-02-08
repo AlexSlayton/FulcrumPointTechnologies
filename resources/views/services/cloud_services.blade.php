@@ -32,7 +32,7 @@
 
         <div class="col-lg-8 text-left">
 
-          <p><strong>Whether your company’s Cloud Services requirements are IaaS, SaaS, PaaS or you need more insight into Private and Public Cloud offerings and cost comparisons, Fulcrum Point Technologies can provide insight into available Cloud Services options and provide a Cloud Readiness Assessment in order to determine what options can deliver the best cost benefit.</strong></p><p>***INRTO CLOUD READINESS ASSESSMENT SENTENCE***</p>
+          <p><strong>Whether your company’s Cloud Services requirements are IaaS, SaaS, PaaS or you need more insight into Private and Public Cloud offerings and cost comparisons, Fulcrum Point Technologies can provide insight into available Cloud Services options and provide a Cloud Readiness Assessment in order to determine what options can deliver the best cost benefit.</strong></p>
 
           <br>
           <br>

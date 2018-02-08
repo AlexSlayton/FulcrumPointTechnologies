@@ -64,11 +64,11 @@
         <div class="gcp">
         <div class="container">
             <div class="row">
-                <div class="col-sm-6 footerText1" style="padding-bottom: 10px;">
+                <div class="col-sm-8 footerText1" style="padding-bottom: 10px;">
             © 2018 Copyright: <a href="http://www.fulcrumpointtechnologies.com"><strong>2018 Fulcrum Point Technologies, Inc.</strong></a>
         </div>
             
-            <div class="col-sm-6 footerText2">
+            <div class="col-sm-4 footerText2">
             
             <a href="http://www.gulfcoastpixel.com" target="_blank" style="color: white; font-size: 13px;">Crafted By<img class="gcpLogo text-right" src="/img/GCP-whitelogo.png"></a>
         </div>

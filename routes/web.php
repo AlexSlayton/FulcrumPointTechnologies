@@ -20,6 +20,9 @@ Route::get('/services', 'PostsController@services');
 
 Route::get('/about_us', 'PostsController@about_us');
 
+// sitmap 
+Route::get('/sitemap.xml', 'PostsController@sitemap');
+
 // Service Routes 
 Route::get('/services/big_data_analytics', 'PostsController@big_data_analytics');
 
@@ -44,6 +47,8 @@ Route::get('/services/vendor_management', 'PostsController@vendor_management');
 
 
 Route::post('/', 'EmailController@postContact');
+
+Route::get('/errors/404', 'PostsController@404');
 
 
 // Route::get('/contact', function () {
