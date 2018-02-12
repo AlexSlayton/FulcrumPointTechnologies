@@ -22,9 +22,9 @@
             <div class="asideImg" id="vendorManagementAsideImg"></div>
 
             <ul style="list-style: none; padding: 0px;">
-              <li class="quickLinkList"><a class="page-scroll" href="#1"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Risk Mitigation</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#2"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Performance Metrics</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#3"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Operational Oversight</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#1"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Risk Mitigation</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#2"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Performance Metrics</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#3"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Operational Oversight</a></li>
             </ul> 
         </aside>
 

@@ -22,10 +22,10 @@
             <div class="asideImg" id="securityAsideImg"></div>
 
             <ul style="list-style: none; padding: 0px;">
-              <li class="quickLinkList"><a class="page-scroll" href="#1"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Security Assessments</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#2"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Security Risk, Governance and Awareness</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#3"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Manged Security Services</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#4"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Penetration Testing</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#1"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Security Assessments</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#2"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Security Risk, Governance and Awareness</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#3"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Manged Security Services</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#4"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Penetration Testing</a></li>
             </ul> 
         </aside>
 

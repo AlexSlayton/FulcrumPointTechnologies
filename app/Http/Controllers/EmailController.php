@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Post;
 use Mail;
-use Session;
+// use Session;
 
 class EmailController extends Controller
 {
@@ -20,8 +20,9 @@ class EmailController extends Controller
     		);
 
     	Mail::send('emails.sending', $data, function($message) use ($data){
-    		$message->from($data['email']);
-    		$message->to('someone@them.com');
+    		$message->from('Contact-Form@www.fulcrumpointtechnologies.com');
+    		$message->to('alexslayton.home@gmail.com');
+            $message->to('alex@gulfcoastpixel.com');
     		$message->subject('Contact Form Email');
 
     	});

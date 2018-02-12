@@ -5,6 +5,14 @@
 
     RewriteEngine On
 
+    # URL Canonicalization
+    RewriteCond %{HTTP_HOST} !^www.fulcrumpointtechnologies.com$ [NC]
+    RewriteRule ^(.*)$ http://www.fulcrumpointtechnologies.com/$1 [L,R=301]
+
+    # Libwww-perl access blocking
+    RewriteCond %{HTTP_USER_AGENT} libwww-perl.* 
+    RewriteRule .* ? [F,L]
+
     # Redirect Trailing Slashes If Not A Folder...
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteRule ^(.*)/$ /$1 [L,R=301]

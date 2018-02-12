@@ -22,10 +22,10 @@
             <div class="asideImg" id="projectManagementAsideImg"></div>
 
             <ul style="list-style: none; padding: 0px;">
-              <li class="quickLinkList"><a class="page-scroll" href="#1"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Plan Development</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#2"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Time Management</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#3"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Controlling Cost</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#4"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Controlling Risk</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#1"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Plan Development</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#2"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Time Management</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#3"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Controlling Cost</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#4"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Controlling Risk</a></li>
             </ul> 
         </aside>
 

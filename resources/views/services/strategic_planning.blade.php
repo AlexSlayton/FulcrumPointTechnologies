@@ -22,12 +22,12 @@
             <div class="asideImg" id="strategicPlanningAsideImg"></div>
 
             <ul style="list-style: none; padding: 0px;">
-              <li class="quickLinkList"><a class="page-scroll" href="#1"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Define Goals and Objectives</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#2"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Assess Capabilities</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#3"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Identify Gaps</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#4"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Develop Road Map</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#5"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Execute</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#6"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Measure</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#1"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Define Goals and Objectives</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#2"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Assess Capabilities</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#3"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Identify Gaps</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#4"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Develop Road Map</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#5"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Execute</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#6"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Measure</a></li>
             </ul> 
         </aside>
 
@@ -41,61 +41,61 @@
           
           <div id="1"></div>
           <h3>Define Goals and Objectives</h3>
-          <ul style="list-style: none;">
-            <li>&#43; Establish goals, objectives and clearly state what your organization must achieve to address the highest priority issues or opportunities</li>
-            <li>&#43; Ensure that all Goals and Objectives are Business Focused</li>
-            <li>&#43; Identify what’s important and focus on where you want to take your organization over time. This sets the direction of the enterprise over the long term and clearly defines the mission and vision</li>
-            <li>&#43; Review Project portfolio to ensure appropriate alignment between It and business strategies, goals and objectives</li>
+          <ul>
+            <li>Establish goals, objectives and clearly state what your organization must achieve to address the highest priority issues or opportunities</li>
+            <li>Ensure that all Goals and Objectives are Business Focused</li>
+            <li>Identify what’s important and focus on where you want to take your organization over time. This sets the direction of the enterprise over the long term and clearly defines the mission and vision</li>
+            <li>Review Project portfolio to ensure appropriate alignment between It and business strategies, goals and objectives</li>
           </ul>
 
           <br>
           
           <div id="2"></div>
           <h3>Assess Capabilities</h3>
-          <ul style="list-style: none;">
-            <li>&#43; Conduct internal audits to get a clear understanding of your organization’s structure and culture</li>
-            <li>&#43; Evaluate Capabilities, Processes, Skills and Technology</li>
-            <li>&#43; Determine Service Management and Governance Maturity Level</li>
-            <li>&#43; Proactive or Reactive crisis management posture</li>
-            <li>&#43; Determine ability to respond to requests</li>
+          <ul>
+            <li>Conduct internal audits to get a clear understanding of your organization’s structure and culture</li>
+            <li>Evaluate Capabilities, Processes, Skills and Technology</li>
+            <li>Determine Service Management and Governance Maturity Level</li>
+            <li>Proactive or Reactive crisis management posture</li>
+            <li>Determine ability to respond to requests</li>
           </ul>
 
           <br>
 
           <div id="3"></div>
           <h3>Identify Gaps</h3>
-          <ul style="list-style: none;">
-            <li>&#43; Identify gaps between Business and IT objectives</li>
-            <li>&#43; Identify Skills, Process and Technology Gaps</li>
-            <li>&#43; Document and review gaps and opportunities with Leadership Team</li>
+          <ul>
+            <li>Identify gaps between Business and IT objectives</li>
+            <li>Identify Skills, Process and Technology Gaps</li>
+            <li>Document and review gaps and opportunities with Leadership Team</li>
           </ul>
 
           <br>
           
           <div id="4"></div>
           <h3>Develop Road Map</h3>
-          <ul style="list-style: none;">
-            <li>&#43; Develop tactical plans, budgets, milestones, and resource map</li>
-            <li>&#43; Create road map (short term, long term)</li>
-            <li>&#43; Develop RACI to ensure accountability</li>
+          <ul>
+            <li>Develop tactical plans, budgets, milestones, and resource map</li>
+            <li>Create road map (short term, long term)</li>
+            <li>Develop RACI to ensure accountability</li>
           </ul>
 
           <br>
           
           <div id="5"></div>
           <h3>Execute</h3>
-          <ul style="list-style: none;">
-            <li>&#43; Work with client to implement strategy to meet goals and objectives</li>
+          <ul>
+            <li>Work with client to implement strategy to meet goals and objectives</li>
           </ul>
 
           <br>
           
           <div id="6"></div>
           <h3>Measure</h3>
-          <ul style="list-style: none;">
+          <ul>
             <h5>Measure, Track and report on Key Performance Indicators</h5>
-            <li>&#43; Define Key Performance Indicators that be measure, tracked, reported and action can be taken on</li>
-            <li>&#43; Continuous measure where you are in relation to goals and objectives</li>
+            <li>Define Key Performance Indicators that be measure, tracked, reported and action can be taken on</li>
+            <li>Continuous measure where you are in relation to goals and objectives</li>
           </ul>
             
         </div>
@@ -131,11 +131,12 @@
 
         <div class="collapse allItems" id="toggle1">
         <div class="card card-body">
-            <p><i class="fa fa-plus" aria-hidden="true"></i> Establish goals, objectives and clearly state what your organization must achieve to address the highest priority issues or opportunities</p>
-            <p><i class="fa fa-plus" aria-hidden="true"></i> Ensure that all Goals and Objectives are Business Focused</p>
-            <p><i class="fa fa-plus" aria-hidden="true"></i> Identify what’s important and focus on where you want to take your organization over time. This sets the direction of the enterprise over the long term and clearly defines the mission and vision</p>
-            <p><i class="fa fa-plus" aria-hidden="true"></i> Review Project portfolio to ensure appropriate alignment between It and business strategies, goals and objectives</p>
-          
+          <ul class="text-left">
+            <li>Establish goals, objectives and clearly state what your organization must achieve to address the highest priority issues or opportunities</li>
+            <li>Ensure that all Goals and Objectives are Business Focused</li>
+            <li>Identify what’s important and focus on where you want to take your organization over time. This sets the direction of the enterprise over the long term and clearly defines the mission and vision</li>
+            <li>Review Project portfolio to ensure appropriate alignment between It and business strategies, goals and objectives</li>
+          </ul>
         </div>
         </div>
           
@@ -146,11 +147,13 @@
           
         <div class="collapse allItems" id="toggle2">
         <div class="card card-body">
-            <p><i class="fa fa-plus" aria-hidden="true"></i> Conduct internal audits to get a clear understanding of your organization’s structure and culture</p>
-            <p><i class="fa fa-plus" aria-hidden="true"></i> Evaluate Capabilities, Processes, Skills and Technology</p>
-            <p><i class="fa fa-plus" aria-hidden="true"></i> Determine Service Management and Governance Maturity Level</p>
-            <p><i class="fa fa-plus" aria-hidden="true"></i> Proactive or Reactive crisis management posture</p>
-            <p><i class="fa fa-plus" aria-hidden="true"></i> Determine ability to respond to requests</p>
+          <ul class="text-left">
+            <li>Conduct internal audits to get a clear understanding of your organization’s structure and culture</li>
+            <li>Evaluate Capabilities, Processes, Skills and Technology</li>
+            <li>Determine Service Management and Governance Maturity Level</li>
+            <li>Proactive or Reactive crisis management posture</li>
+            <li>Determine ability to respond to requests</li>
+          </ul>
         </div>
         </div>
 
@@ -161,9 +164,11 @@
 
         <div class="collapse allItems" id="toggle3">
         <div class="card card-body">
-            <p><i class="fa fa-plus" aria-hidden="true"></i> Identify gaps between Business and IT objectives</p>
-            <p><i class="fa fa-plus" aria-hidden="true"></i> Identify Skills, Process and Technology Gaps</p>
-            <p><i class="fa fa-plus" aria-hidden="true"></i> Document and review gaps and opportunities with Leadership Team</p>
+          <ul class="text-left">
+            <li>Identify gaps between Business and IT objectives</li>
+            <li>Identify Skills, Process and Technology Gaps</li>
+            <li>Document and review gaps and opportunities with Leadership Team</li>
+          </ul>
         </div>
         </div>
 
@@ -174,9 +179,11 @@
 
         <div class="collapse allItems" id="toggle4">
         <div class="card card-body">
-            <p><i class="fa fa-plus" aria-hidden="true"></i> Develop tactical plans, budgets, milestones, and resource map</p>
-            <p><i class="fa fa-plus" aria-hidden="true"></i> Create road map (short term, long term)</p>
-            <p><i class="fa fa-plus" aria-hidden="true"></i> Develop RACI to ensure accountability</p>
+          <ul class="text-left">
+            <li>Develop tactical plans, budgets, milestones, and resource map</li>
+            <li>Create road map (short term, long term)</li>
+            <li>Develop RACI to ensure accountability</li>
+          </ul>
         </div>
         </div>
 
@@ -187,7 +194,9 @@
 
         <div class="collapse allItems" id="toggle5">
         <div class="card card-body">
-            <p><i class="fa fa-plus" aria-hidden="true"></i> Work with client to implement strategy to meet goals and objectives</p>
+          <ul class="text-left">
+            <li>Work with client to implement strategy to meet goals and objectives</li>
+          </ul>
         </div>
         </div>
 
@@ -198,9 +207,11 @@
 
         <div class="collapse allItems" id="toggle6">
         <div class="card card-body">
-            <h5>Measure, Track and report on Key Performance Indicators</h5>
-            <p><i class="fa fa-plus" aria-hidden="true"></i> Define Key Performance Indicators that be measure, tracked, reported and action can be taken on</p>
-            <p><i class="fa fa-plus" aria-hidden="true"></i> Continuous measure where you are in relation to goals and objectives</p>
+            <h5 class="text-left">Measure, Track and report on Key Performance Indicators</h5>
+            <ul class="text-left">
+            <li>Define Key Performance Indicators that be measure, tracked, reported and action can be taken on</li>
+            <li>Continuous measure where you are in relation to goals and objectives</li>
+          </ul>
         </div>
         </div>
             

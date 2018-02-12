@@ -26,7 +26,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Fulcrum Point Technologies" />
     <meta property="og:description" content="Fulcrum Point Technologies is an Innovation and Solution provider that specializes in Operational and Technology optimization." />
-    <meta property="og:image" content="http://www.FulcrumPointTechnologies.com/img/FPT-logo-crawl.png" />
+    <meta property="og:image" content="https://glacial-atoll-57475.herokuapp.com/img/FPT-logo-crawl.png" />
 
     <title>Fulcrum Point Technologies</title>
 

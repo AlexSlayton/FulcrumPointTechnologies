@@ -1,4 +1,4 @@
-<h3>You Have a Message via the Fulcrum Point Tech Contact Form</h3>
+<h3>You Have a Message via the Fulcrum Point Technologies Contact Form</h3>
 
 <div>
 	{{ $bodyMessage }}

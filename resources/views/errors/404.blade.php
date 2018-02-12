@@ -8,7 +8,7 @@
 	<div class="text-center" style="padding-top: 100px; padding-bottom: 100px; background-color: #1e1e1e; margin: 0px;">
 		<img src="/img/FPT-logo-white.png">
 		<h1 style="color: white; padding: 0px;">404</h1>
-		<h3 style="color: white; padding: 0px;">Looks like you took a wrong turn</h3>
+		<h3 style="color: white; padding: 0px;">Whoops, looks like you took a wrong turn.</h3>
 	</div>
 	</div>
 	</div>

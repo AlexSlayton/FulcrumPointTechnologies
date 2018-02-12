@@ -23,16 +23,16 @@
             <div class="asideImg" id="devOpsAsideImg"></div>
 
             <ul style="list-style: none; padding: 0px;">
-              <li class="quickLinkList"><a class="page-scroll" href="#1"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Full Suite of Onshore/Nearshore Development Services</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#2"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Commercial Facing &#38; Enterprise Application Development</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#3"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Mobile Web &#38; Native Mobile Applications</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#4"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Cloud Applications</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#5"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Application Updates, Migration, &#38; Re-Platforming</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#6"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Content Management System</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#7"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Testing Services</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#8"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Planning</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#9"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Design</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#10"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Execution and reporting</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#1"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Full Suite of Onshore/Nearshore Development Services</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#2"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Commercial Facing &#38; Enterprise Application Development</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#3"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Mobile Web &#38; Native Mobile Applications</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#4"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Cloud Applications</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#5"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Application Updates, Migration, &#38; Re-Platforming</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#6"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Content Management System</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#7"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Testing Services</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#8"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Planning</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#9"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Design</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#10"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Execution and reporting</a></li>
             </ul> 
         </aside>
 

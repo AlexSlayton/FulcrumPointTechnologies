@@ -22,10 +22,10 @@
             <div class="asideImg" id="cloudAsideImg"></div>
 
             <ul style="list-style: none; padding: 0px;">
-              <li class="quickLinkList"><a class="page-scroll" href="#1"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Business and Technical Strategy Discovery</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#2"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Analysis</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#3"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Operational Readiness</a></li>
-              <li class="quickLinkList"><a class="page-scroll" href="#4"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Execution and Validation</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#1"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Business and Technical Strategy Discovery</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#2"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Analysis</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#3"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Operational Readiness</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#4"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Execution and Validation</a></li>
             </ul> 
         </aside>
 

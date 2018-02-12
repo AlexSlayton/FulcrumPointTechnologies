@@ -22,27 +22,27 @@
             <div class="asideImg" id="technologyAsideImg"></div>
 
             <ul style="list-style: none; padding: 0px;">
-              <li class="quickLinkList"><a class="page-scroll" href="#1"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Technology Platform Tiering</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#1"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Technology Platform Tiering</a></li>
 
-              <li class="quickLinkList" style="padding-left: 15px; padding-top: 0px;"><a class="page-scroll" href="#2"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Assess</a></li>
+              <li class="quickLinkList" style="padding-left: 15px; padding-top: 0px;"><a class="page-scroll" href="#2"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Assess</a></li>
 
-              <li class="quickLinkList" style="padding-left: 15px; padding-top: 0px;"><a class="page-scroll" href="#3"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Optimize</a></li>
+              <li class="quickLinkList" style="padding-left: 15px; padding-top: 0px;"><a class="page-scroll" href="#3"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Optimize</a></li>
 
-              <li class="quickLinkList" style="padding-left: 15px; padding-top: 0px;"><a class="page-scroll" href="#4"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Implemet</a></li>
+              <li class="quickLinkList" style="padding-left: 15px; padding-top: 0px;"><a class="page-scroll" href="#4"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Implemet</a></li>
 
-              <li class="quickLinkList" style="padding-left: 15px; padding-top: 0px;"><a class="page-scroll" href="#5"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Validate</a></li>
+              <li class="quickLinkList" style="padding-left: 15px; padding-top: 0px;"><a class="page-scroll" href="#5"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Validate</a></li>
 
-              <li class="quickLinkList"><a class="page-scroll" href="#6"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Voice and Data Services</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#6"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Voice and Data Services</a></li>
 
-              <li class="quickLinkList"><a class="page-scroll" href="#7"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Server Sizing and Capacity Planning</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#7"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Server Sizing and Capacity Planning</a></li>
 
-              <li class="quickLinkList"><a class="page-scroll" href="#8"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Integration of System &#38; Data</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#8"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Integration of System &#38; Data</a></li>
 
-              <li class="quickLinkList"><a class="page-scroll" href="#9"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Operational Readiness</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#9"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Operational Readiness</a></li>
 
-              <li class="quickLinkList"><a class="page-scroll" href="#10"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Service Management</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#10"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Service Management</a></li>
 
-              <li class="quickLinkList"><a class="page-scroll" href="#11"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i>Proactive Server/Network/Application Monitoring Services</a></li>
+              <li class="quickLinkList"><a class="page-scroll" href="#11"><i class="fa fa-1x fa-angle-double-right" aria-hidden="true"></i> Proactive Server/Network/Application Monitoring Services</a></li>
             </ul> 
         </aside>
 

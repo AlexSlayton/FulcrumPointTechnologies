@@ -21,27 +21,27 @@
         </aside>
             
 
-        <div class="col-lg-8 text-left">
-          <h4>Fulcrum is focused on delivering high valued Governance, Risk Management, and Strategic Advisory solutions.</h4>
-
-          <p><i class="fa fa-plus" aria-hidden="true"></i> IT and Business controls development and effectiveness monitoring</p>
+        <div class="col-lg-8 text-left govern">
+          <h3>Fulcrum is focused on delivering high valued Governance, Risk Management, and Strategic Advisory solutions.</h3>
+        <ul style="font-size: 18px;">
+          <li>IT and Business controls development and effectiveness monitoring</li>
             
-          <p><i class="fa fa-plus" aria-hidden="true"></i> Business process and procedure design, assessment, and implementation</p>
+          <li>Business process and procedure design, assessment, and implementation</li>
            
-          <p><i class="fa fa-plus" aria-hidden="true"></i> Program and portfolio management in complex matrixed organizations</p>
+          <li>Program and portfolio management in complex matrixed organizations</li>
           
-          <p><i class="fa fa-plus" aria-hidden="true"></i> Development of Key Performance Indicators and Metrics reporting</p>
+          <li>Development of Key Performance Indicators and Metrics reporting</li>
             
-          <p><i class="fa fa-plus" aria-hidden="true"></i> Remediation management planning and Risk modeling</p>
+          <li>Remediation management planning and Risk modeling</li>
             
-          <p><i class="fa fa-plus" aria-hidden="true"></i> Agile process implementation and monitoring</p>
+          <li>Agile process implementation and monitoring</li>
             
-          <p><i class="fa fa-plus" aria-hidden="true"></i> SOX and SSAE16 compliance auditing (internal and external)</p>
+          <li>SOX and SSAE16 compliance auditing (internal and external)</li>
             
-          <p><i class="fa fa-plus" aria-hidden="true"></i> Audit Readiness and Response</p>
+          <li>Audit Readiness and Response</li>
             
-          <p><i class="fa fa-plus" aria-hidden="true"></i> Establish Responsible, Accountable, Consulted and Informed(RACI) Matrix</p>
- 
+          <li>Establish Responsible, Accountable, Consulted and Informed(RACI) Matrix</li>
+        </ul>
         </div>
           </div>
         </div>
@@ -56,26 +56,28 @@
       <div class="container">
        <div class="row">
         <div class="col-lg-12 text-center">
-        <div class="col-lg-12 text-center">
-          <h4>Fulcrum is focused on delivering high valued Governance, Risk Management, and Strategic Advisory solutions.</h4>
+        <div class="col-lg-12 text-left">
+          <h3>Fulcrum is focused on delivering high valued Governance, Risk Management, and Strategic Advisory solutions.</h3>
 
-          <p><i class="fa fa-plus" aria-hidden="true"></i> IT and Business controls development and effectiveness monitoring</p>
+          <ul>
+          <li>IT and Business controls development and effectiveness monitoring</li>
             
-          <p><i class="fa fa-plus" aria-hidden="true"></i> Business process and procedure design, assessment, and implementation</p>
+          <li>Business process and procedure design, assessment, and implementation</li>
            
-          <p><i class="fa fa-plus" aria-hidden="true"></i> Program and portfolio management in complex matrixed organizations</p>
+          <li>Program and portfolio management in complex matrixed organizations</li>
           
-          <p><i class="fa fa-plus" aria-hidden="true"></i> Development of Key Performance Indicators and Metrics reporting</p>
+          <li>Development of Key Performance Indicators and Metrics reporting</li>
             
-          <p><i class="fa fa-plus" aria-hidden="true"></i> Remediation management planning and Risk modeling</p>
+          <li>Remediation management planning and Risk modeling</li>
             
-          <p><i class="fa fa-plus" aria-hidden="true"></i> Agile process implementation and monitoring</p>
+          <li>Agile process implementation and monitoring</li>
             
-          <p><i class="fa fa-plus" aria-hidden="true"></i> SOX and SSAE16 compliance auditing (internal and external)</p>
+          <li>SOX and SSAE16 compliance auditing (internal and external)</li>
             
-          <p><i class="fa fa-plus" aria-hidden="true"></i> Audit Readiness and Response</p>
+          <li>Audit Readiness and Response</li>
             
-          <p><i class="fa fa-plus" aria-hidden="true"></i> Establish Responsible, Accountable, Consulted and Informed(RACI) Matrix</p>
+          <li>Establish Responsible, Accountable, Consulted and Informed(RACI) Matrix</li>
+        </ul>
       
         </div>
         </div>

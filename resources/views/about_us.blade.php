@@ -39,11 +39,11 @@
               <li>Provide Operational Readiness handoff and support</li>
             </ul>
           </div>
-                    
+
           <div class="col-lg-4 text-left">
-            <div class="aboutUsPics" id="winImg"></div>
-          </div>
-          <div class="col-lg-8">
+              <div class="aboutUsPics" id="winImg"></div>
+            </div>
+            <div class="col-lg-8">
             <h3 style="font-size: 30px;">Some of the many challenges that we have help overcome for our customers:</h3>
             <ul style="font-size: 18px;">
               <li>Lack of Flexibility and elasticity to rapidly adjust to business needs</li>

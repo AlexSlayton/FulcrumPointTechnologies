@@ -39,6 +39,12 @@ p,
 ul {
   color: #585858;
 }
+ul {
+  font-size: 17px;
+}
+aside ul {
+  font-size: 14px;
+}
 h2 {
   font-size: 2.5rem;
   font-weight: 600;
@@ -246,6 +252,9 @@ body {
   padding-bottom: 20px;
   padding-left: 10px;
   padding-top: 15px;
+}
+.govern p {
+  line-height: 2rem;
 }
 .alert {
   width: 100%;
@@ -552,6 +561,9 @@ header.serviceHero {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   float: left;
   margin-bottom: 20px;
 }
@@ -559,7 +571,7 @@ header.serviceHero {
   background-image: url("/img/solutionImg.jpg");
 }
 #winImg {
-  background: url("/img/winImg.jpg");
+  background-image: url("/img/winImg.jpg");
 }
 #servicePageImg {
   background-image: url("/img/bannerimg10a-FPT.png");
@@ -810,6 +822,23 @@ header.serviceHero .header-content .header-content-inner p {
 .gcpLogo {
   height: 50px;
   display: inline;
+}
+.aboutUsPics {
+  position: relative;
+  width: 100%;
+  height: 300px;
+  min-height: auto;
+  object-fit: contain;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  float: left;
+  margin-bottom: 20px;
 }
 section {
   padding: 30px 0;
