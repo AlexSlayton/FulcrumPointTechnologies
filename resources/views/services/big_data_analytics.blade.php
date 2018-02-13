@@ -33,7 +33,7 @@
 
           <div id="1"></div>
           <h3>Analytics &#38; Data Intelligence</h3>   
-          <p>We will help your team transform raw data into actionable intelligence.  With a proven rapid approach to building data warehouses, reporting solutions, and transactional systems that interact with data, we can deliver valuable solutions quickly, just as we’ve done for over 1500 companies world wide.</p>
+          <p>We will help your team transform raw data into actionable intelligence.  With a proven rapid approach to building data warehouses, reporting solutions, and transactional systems that interact with data, we can deliver valuable solutions quickly, just as we’ve done for over 1500 companies worldwide.</p>
 
           <br>
           
@@ -95,7 +95,7 @@
 
         <div class="collapse allItems" id="toggle1">
         <div class="card card-body">  
-          <p>We will help your team transform raw data into actionable intelligence.  With a proven rapid approach to building data warehouses, reporting solutions, and transactional systems that interact with data, we can deliver valuable solutions quickly, just as we’ve done for over 1500 companies world wide.</p>
+          <p>We will help your team transform raw data into actionable intelligence.  With a proven rapid approach to building data warehouses, reporting solutions, and transactional systems that interact with data, we can deliver valuable solutions quickly, just as we’ve done for over 1500 companies worldwide.</p>
         </div>
         </div>
           

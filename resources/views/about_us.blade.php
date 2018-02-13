@@ -30,7 +30,7 @@
               <div class="aboutUsPics" id="solutionImg"></div>
             </div>
             <div class="col-lg-8">
-            <h3 style="font-size: 30px;">Our solutions are driven by the same principals:</h3>
+            <h3 style="font-size: 30px;">Our solutions are driven by the same principles:</h3>
             
             <ul style="font-size: 18px;">
               <li>Assess and provide solutions to meet the customers' needs</li>
@@ -44,9 +44,9 @@
               <div class="aboutUsPics" id="winImg"></div>
             </div>
             <div class="col-lg-8">
-            <h3 style="font-size: 30px;">Some of the many challenges that we have help overcome for our customers:</h3>
+            <h3 style="font-size: 30px;">Some of the challenges that we have overcome for our customers:</h3>
             <ul style="font-size: 18px;">
-              <li>Lack of Flexibility and elasticity to rapidly adjust to business needs</li>
+              <li>Lack of flexibility and elasticity to rapidly adjust to business needs</li>
               <li>Operational inefficiencies – Cost, staffing, process, execution</li>
               <li>Technology Stability and Performance issues</li>
               <li>Limited Automation, Governance and Key Performance Indicators</li>

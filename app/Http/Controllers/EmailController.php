@@ -21,8 +21,7 @@ class EmailController extends Controller
 
     	Mail::send('emails.sending', $data, function($message) use ($data){
     		$message->from('Contact-Form@www.fulcrumpointtechnologies.com');
-    		$message->to('alexslayton.home@gmail.com');
-            $message->to('alex@gulfcoastpixel.com');
+    		$message->to('info@fulcrumpointtechnologies.com');
     		$message->subject('Contact Form Email');
 
     	});

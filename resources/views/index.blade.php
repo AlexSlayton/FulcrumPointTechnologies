@@ -61,7 +61,7 @@
             <div class="service-box-home">
               <i class="fa fa-4x fa-globe text-primary sr-icons" aria-hidden="true"></i>
               <h5>Strategic Planning</h5>
-              <p class="text-muted text-center">We collaborate to assist in aligning your IT strategy with your Business Goals &#38; Objectives.<!-- Our team of Technology Strategists will work with your Technology Leaders to assist in aligning your IT strategy with your Business Goals and Objectives. --></p>
+              <p class="text-muted text-center">We collaborate to assist in aligning your IT strategy with your business goals &#38; objectives.<!-- Our team of Technology Strategists will work with your Technology Leaders to assist in aligning your IT strategy with your Business Goals and Objectives. --></p>
               <div class="learnMoreText">
                 <a href="/services/strategic_planning" style="color: #359392;">LEARN MORE &nbsp;</a><i class="fa fa-1x fa-angle-right"></i>
               </div>

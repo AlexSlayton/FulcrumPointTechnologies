@@ -117,7 +117,7 @@
           
           <div id="10"></div>
           <h3>Execution and reporting</h3>
-          <p>The test plan is followed and adjusted if needed. All test cases are executed and the test results are provided along with an extensive defect report. Testing will be performed based on functionality, usability, performance, and portability.</p>
+          <p>The test plan is followed and adjusted if needed. All test cases are executed, and the test results are provided along with an extensive defect report. Testing will be performed based on functionality, usability, performance, and portability.</p>
             
         </div>
         </div>
@@ -272,7 +272,7 @@
 
         <div class="collapse allItems" id="toggle10">
         <div class="card card-body">
-          <p>The test plan is followed and adjusted if needed. All test cases are executed and the test results are provided along with an extensive defect report. Testing will be performed based on functionality, usability, performance, and portability.</p>
+          <p>The test plan is followed and adjusted if needed. All test cases are executed, and the test results are provided along with an extensive defect report. Testing will be performed based on functionality, usability, performance, and portability.</p>
         </div>
         </div>
             

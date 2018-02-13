@@ -60,7 +60,7 @@
           <br>
           
           <div id="3"></div>
-          <h3>Manged Security Services</h3>
+          <h3>Managed Security Services</h3>
             <p>Guard and protect your business assets 24x7x365 from external threats. We provide real-time proactive monitoring and solutions to inspect your IP traffic for potential threats.</p>
             <ul>
               <li>Incident Detection</li>
@@ -138,7 +138,7 @@
 
           <br>
 
-          <h3>Manged Security Services<br>
+          <h3>Managed Security Services<br>
           <a class="fa fa-2x fa-chevron-circle-right rotate" data-toggle="collapse" data-target="#toggle3" aria-expanded="false" aria-controls="collapse"></a></h3>
 
         <div class="collapse allItems" id="toggle3">

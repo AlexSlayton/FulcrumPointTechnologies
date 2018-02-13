@@ -97,11 +97,7 @@
         scale: 0.9,
         distance: '10px'
     }, 300);
-    // sr.reveal('.bumpLeft', {
-    //     duration: 2000,
-    //     scale: 0,
-    //     distance: '100px'
-    // }, 700);
+   
 
     // Rotates the chevron drop text
     $(".rotate").click(function(){

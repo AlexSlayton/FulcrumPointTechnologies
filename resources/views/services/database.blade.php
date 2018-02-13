@@ -52,7 +52,7 @@
           
           <div id="3"></div>
           <h3>Database Virtualization Services</h3>
-          <p>Fulcrum will assess your performance, availability SLA, and business drivers for business critical databases and then outline the possible options for virtualization.  Once the objectives and plans are determined, Viscosity North America will architect and implement the virtualization technology that best meets your business and IT objectives.</p>
+          <p>Fulcrum will assess your performance, availability SLA, and business drivers for business-critical databases and then outline the possible options for virtualization.  Once the objectives and plans are determined, Viscosity North America will architect and implement the virtualization technology that best meets your business and IT objectives.</p>
 
           <br>
           
@@ -75,7 +75,7 @@
           <br>
           <div id="7"></div>
           <h3>Zero Downtime Zero Risk Database Migration Services</h3>
-          <p>When you are re-platforming Oracle or DB2 databases running on AIX/Solaris/HP-UX/Linux to Microsoft Windows SQL Server or migrating onto a virtualized infrastructure, Viscosity North America experts have fine tuned their migration methodology that centers around zero downtime to business and zero risk value proposition for executive management.</p>
+          <p>When you are re-platforming Oracle or DB2 databases running on AIX/Solaris/HP-UX/Linux to Microsoft Windows SQL Server or migrating onto a virtualized infrastructure, Viscosity North America experts have fine-tuned their migration methodology that centers around zero downtime to business and zero risk value proposition for executive management.</p>
 
           <br>
           <div id="8"></div>
@@ -144,7 +144,7 @@
 
         <div class="collapse allItems" id="Virtualization">
         <div class="card card-body">
-          <p>Fulcrum will assess your performance, availability SLA, and business drivers for business critical databases and then outline the possible options for virtualization.  Once the objectives and plans are determined, Viscosity North America will architect and implement the virtualization technology that best meets your business and IT objectives.</p>
+          <p>Fulcrum will assess your performance, availability SLA, and business drivers for business-critical databases and then outline the possible options for virtualization.  Once the objectives and plans are determined, Viscosity North America will architect and implement the virtualization technology that best meets your business and IT objectives.</p>
         </div>
         </div>
 
@@ -188,7 +188,7 @@
 
         <div class="collapse allItems" id="zero">
         <div class="card card-body">
-          <p>When you are re-platforming Oracle or DB2 databases running on AIX/Solaris/HP-UX/Linux to Microsoft Windows SQL Server or migrating onto a virtualized infrastructure, Viscosity North America experts have fine tuned their migration methodology that centers around zero downtime to business and zero risk value proposition for executive management.</p>
+          <p>When you are re-platforming Oracle or DB2 databases running on AIX/Solaris/HP-UX/Linux to Microsoft Windows SQL Server or migrating onto a virtualized infrastructure, Viscosity North America experts have fine-tuned their migration methodology that centers around zero downtime to business and zero risk value proposition for executive management.</p>
         </div>
         </div>
 

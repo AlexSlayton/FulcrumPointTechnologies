@@ -88,7 +88,7 @@
             <span class="glyphicon glyphicon-hdd"></span>
               <i class="fa fa-3x fa-tasks text-primary sr-icons"></i>
               <h4>Project Management</h4>
-              <p class="serviceBoxText text-muted">Our project managers are experts in plan development, time management, controlling cost &#38; risk.<!-- Looking for a way to stay ahead of the pack in today’s competitive and chaotic global economy, companies are turning to project management to consistently deliver business results. --></p>
+              <p class="serviceBoxText text-muted">Our project managers are experts in plan development, time management, and controlling cost &#38; risk.<!-- Looking for a way to stay ahead of the pack in today’s competitive and chaotic global economy, companies are turning to project management to consistently deliver business results. --></p>
           <div class="learnMoreText">
                 <a href="/services/project_management" style="color: #359392;">LEARN MORE &nbsp;</a><i class="fa fa-1x fa-angle-right"></i>
               </div>
@@ -99,7 +99,7 @@
             <div class="service-box">
               <i class="fa fa-3x fa-globe text-primary sr-icons"></i>
               <h4>Strategic Planning</h4>
-              <p class="serviceBoxText text-muted">We collaborate to assist in aligning your IT strategy with your Business Goals &#38; Objectives.<!-- Our team of Technology Strategists will work with your Technology Leaders to assist in aligning your IT strategy with your Business Goals and Objectives. --></p>
+              <p class="serviceBoxText text-muted">We collaborate to assist in aligning your IT strategy with your business goals &#38; objectives.<!-- Our team of Technology Strategists will work with your Technology Leaders to assist in aligning your IT strategy with your Business Goals and Objectives. --></p>
           <div class="learnMoreText">
                 <a href="/services/strategic_planning" style="color: #359392;">LEARN MORE &nbsp;</a><i class="fa fa-1x fa-angle-right"></i>
               </div>

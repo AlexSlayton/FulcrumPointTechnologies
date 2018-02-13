@@ -51,9 +51,9 @@
 
           <div id="1"></div>
           <h3>Technology Platform Tiering</h3>
-          <p>Stable, Secure, Reliable, Fast, Flexible and Cost effective are critical success factors in today’s rapidly changing Business climate. In order to achieve these success factors, Technology Platform Tiering has become a very cost effective option that many Information Technology leaders are seeking.</p>
+          <p>Stable, secure, reliable, fast, flexible and cost-effective are critical success factors in today’s rapidly changing Business climate. In order to achieve these success factors, Technology Platform Tiering has become a very cost-effective option that many Information Technology leaders are seeking.</p>
           <p>Whether you are looking to optimize the current On-premise solution or your desire is to move to an IaaS, SaaS, PaaS, Cloud, Hybrid or various levels of managed services, Fulcrum Point Technologies will work with your team to identify and implement the right solution to meet your needs.</p>
-          <p>In order to find the best Tiering Options to meet your needs, Fulcrum uses a comprehensive methodology to Assess, Optimize, Implement and Validate options.</p>
+          <p>In order to find the best tiering options to meet your needs, Fulcrum uses a comprehensive methodology to Assess, Optimize, Implement and Validate options.</p>
         
           <br>
           
@@ -75,7 +75,7 @@
           </ul>
           
           <div id="4"></div>
-          <ul><h4>Implemet</h4>
+          <ul><h4>Implement</h4>
             <li>Establish Key Performance Indicators and TimeLine</li>
             <li>Create Priority Matrix</li>
             <li>Provide Project Oversight and Reporting</li>
@@ -101,13 +101,13 @@
 
           <div id="7"></div>
           <h3>Server Sizing and Capacity Planning</h3>
-          <p>Proven methodologies to effectively size out the new target platform to meet or exceed the source database platform for compute, memory and storage performance. Fulcrum will work with your team to performance tune areas that need help Consolidation.</p>
+          <p>Proven methodologies to effectively size out the new target platform to meet or exceed the source database platform for compute, memory and storage performance. Fulcrum will work with your team to performance tune areas that need help consolidation.</p>
 
           <br>
 
           <div id="8"></div>
           <h3>Integration of System &#38; Data</h3>
-          <p>Complex commercial software systems are some of the most costly work that IT organizations engage in.  Even more costly are the expensive middleware solutions these same commercial vendors are marketing to solve these integration problems.  We will work with your team to carefully right-size an integration approach.</p>
+          <p>Complex commercial software systems are some of the costliest work that IT organizations engage in. Even more costly are the expensive middleware solutions these same commercial vendors are marketing to solve these integration problems.  We will work with your team to carefully right-size an integration approach.</p>
 
           <br>
 
@@ -156,9 +156,9 @@
 
         <div class="collapse allItems" id="toggle1">
         <div class="card card-body">
-          <p>Stable, Secure, Reliable, Fast, Flexible and Cost effective are critical success factors in today’s rapidly changing Business climate. In order to achieve these success factors, Technology Platform Tiering has become a very cost effective option that many Information Technology leaders are seeking.</p>
+          <p>Stable, secure, reliable, fast, flexible and cost-effective are critical success factors in today’s rapidly changing usiness climate. In order to achieve these success factors, Technology Platform Tiering has become a very cost-effective option that many Information Technology leaders are seeking.</p>
           <p>Whether you are looking to optimize the current On-premise solution or your desire is to move to an IaaS, SaaS, PaaS, Cloud, Hybrid or various levels of managed services, Fulcrum Point Technologies will work with your team to identify and implement the right solution to meet your needs.</p>
-          <p>In order to find the best Tiering Options to meet your needs, Fulcrum uses a comprehensive methodology to Assess, Optimize, Implement and Validate options.</p>
+          <p>In order to find the best tiering options to meet your needs, Fulcrum uses a comprehensive methodology to Assess, Optimize, Implement and Validate options.</p>
 
           <br>
           
@@ -177,7 +177,7 @@
             <li>Present Tiering Options that best fit customers’ needs</li>
           </ul>
 
-          <ul class="text-left"><h4>Implemet</h4>
+          <ul class="text-left"><h4>Implement</h4>
             <li>Establish Key Performance Indicators and TimeLine</li>
             <li>Create Priority Matrix</li>
             <li>Provide Project Oversight and Reporting</li>
@@ -212,7 +212,7 @@
           
         <div class="collapse allItems" id="toggle3">
         <div class="card card-body">
-          <p>Proven methodologies to effectively size out the new target platform to meet or exceed the source database platform for compute, memory and storage performance. Fulcrum will work with your team to performance tune areas that need help Consolidation.</p>
+          <p>Proven methodologies to effectively size out the new target platform to meet or exceed the source database platform for compute, memory and storage performance. Fulcrum will work with your team to performance tune areas that need help consolidation.</p>
         </div>
         </div>
 
@@ -223,7 +223,7 @@
           
         <div class="collapse allItems" id="toggle4">
         <div class="card card-body">
-          <p>Complex commercial software systems are some of the most costly work that IT organizations engage in.  Even more costly are the expensive middleware solutions these same commercial vendors are marketing to solve these integration problems.  We will work with your team to carefully right-size an integration approach.</p>
+          <p>Complex commercial software systems are some of the costliest work that IT organizations engage in. Even more costly are the expensive middleware solutions these same commercial vendors are marketing to solve these integration problems.  We will work with your team to carefully right-size an integration approach.</p>
         </div>
         </div>
 

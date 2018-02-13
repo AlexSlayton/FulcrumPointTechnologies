@@ -31,7 +31,7 @@
 
         <div class="col-lg-8 text-left">
 
-          <p><strong>In todays ever changing business landscape, ensuring that you have the right vendors aligned to your business needs is critical. By implementing a formal Vendor Management Program, you will have valuable insight into how well your vendors are performing and any potential risk they pose, so you can be proactive in your response instead of reactive.</strong></p>
+          <p><strong>In today's ever-changing business landscape, ensuring that you have the right vendors aligned to your business needs is critical. By implementing a formal Vendor Management Program, you will have valuable insight into how well your vendors are performing and any potential risk they pose, so you can be proactive in your response instead of reactive.</strong></p>
           <p><strong>While there are many factors that go into a successful Vender Management Program; there are three critical factors that must be present in a Vendor Management Program - Risk Mitigation, Performance Metrics and Operational Oversight.</strong></p>
 
           <br>
@@ -39,17 +39,17 @@
 
           <div id="1"></div>
           <h3>Risk Mitigation</h3>
-          <p>In order to assess risk, you have to define what a potential risks is, what could be the potential impact that these risk pose and what process and controls you have in place to prevent or respond to any risk events.</p>
+          <p>In order to assess risk, you have to define what a potential risk is, what could be the potential impact that these risks pose and what process and controls you have in place to prevent or respond to any risk events.</p>
             <ul>
-              <li>How much do you rely on each Vendor</li>
-              <li>How hard is it to replace each Vendor</li>
-              <li>How much is spent with Vendor</li>
-              <li>What type of data do they have access to</li>
-              <li>What is the Service Continuity Plan for each Vendor</li>
-              <li>How compliant are they to any regulatory requirements</li>
+              <li>How much do you rely on each vendor?</li>
+              <li>How hard is it to replace each vendor?</li>
+              <li>How much is spent with vendor?</li>
+              <li>What type of data do they have access to?</li>
+              <li>What is the Service Continuity Plan for each vendor?</li>
+              <li>How compliant are they to any regulatory requirements?</li>
               <li>Ability to negotiate product and service</li>
               <li>Willingness or ability to respond to unanticipated demand</li>
-              <li>How well the Vendor works with you</li>
+              <li>How well the vendor works with you?</li>
               <li>Time it takes your vendors to immediately remediate vulnerabilities</li>
             </ul>
           
@@ -57,7 +57,7 @@
           
           <div id="2"></div>
           <h3>Performance Metrics</h3>
-          <p>If you can’t measure it, then it doesn’t exist and you can't improve it. For a metric to be effective, it should be mapped to an end goal and have an action plan defined for track ability, improvement, and repeatability.  To achieve optimal results, performance must be a year-round process with no end.</p>
+          <p>If you can’t measure it, then it doesn’t exist, and you can't improve it. For a metric to be effective, it should be mapped to an end goal and have an action plan defined for track ability, improvement, and repeatability.  To achieve optimal results, performance must be a year-round process with no end.</p>
             <ul>
               <li>Adherence to SLA agreements</li>
               <li>Service Reliability</li>
@@ -107,7 +107,7 @@
        <div class="row">
         <div class="col-lg-12 text-center">
         <div class="col-lg-12 text-center">
-          <p><strong>In todays ever changing business landscape, ensuring that you have the right vendors aligned to your business needs is critical. By implementing a formal Vendor Management Program, you will have valuable insight into how well your vendors are performing and any potential risk they pose, so you can be proactive in your response instead of reactive.</strong></p>
+          <p><strong>In today's ever-changing business landscape, ensuring that you have the right vendors aligned to your business needs is critical. By implementing a formal Vendor Management Program, you will have valuable insight into how well your vendors are performing and any potential risk they pose, so you can be proactive in your response instead of reactive.</strong></p>
           <p><strong>While there are many factors that go into a successful Vender Management Program; there are three critical factors that must be present in a Vendor Management Program - Risk Mitigation, Performance Metrics and Operational Oversight.</strong></p>
 
           <br>
@@ -126,17 +126,17 @@
 
         <div class="collapse allItems" id="toggle1">
         <div class="card card-body">
-          <p>In order to assess risk, you have to define what a potential risks is, what could be the potential impact that these risk pose and what process and controls you have in place to prevent or respond to any risk events.</p>
+          <p>In order to assess risk, you have to define what a potential risk is, what could be the potential impact that these risks pose and what process and controls you have in place to prevent or respond to any risk events.</p>
             <ul class="text-left">
-              <li>How much do you rely on each Vendor</li>
-              <li>How hard is it to replace each Vendor</li>
-              <li>How much is spent with Vendor</li>
-              <li>What type of data do they have access to</li>
-              <li>What is the Service Continuity Plan for each Vendor</li>
-              <li>How compliant are they to any regulatory requirements</li>
+              <li>How much do you rely on each vendor?</li>
+              <li>How hard is it to replace each vendor?</li>
+              <li>How much is spent with vendor?</li>
+              <li>What type of data do they have access to?</li>
+              <li>What is the Service Continuity Plan for each vendor?</li>
+              <li>How compliant are they to any regulatory requirements?</li>
               <li>Ability to negotiate product and service</li>
               <li>Willingness or ability to respond to unanticipated demand</li>
-              <li>How well the Vendor works with you</li>
+              <li>How well the vendor works with you?</li>
               <li>Time it takes your vendors to immediately remediate vulnerabilities</li>
             </ul>
         </div>
@@ -149,7 +149,7 @@
           
         <div class="collapse allItems" id="toggle2">
         <div class="card card-body">
-          <p>If you can’t measure it, then it doesn’t exist and you can't improve it. For a metric to be effective, it should be mapped to an end goal and have an action plan defined for track ability, improvement, and repeatability.  To achieve optimal results, performance must be a year-round process with no end.</p>
+          <p>If you can’t measure it, then it doesn’t exist, and you can't improve it. For a metric to be effective, it should be mapped to an end goal and have an action plan defined for track ability, improvement, and repeatability.  To achieve optimal results, performance must be a year-round process with no end.</p>
             <ul class="text-left">
               <li>Adherence to SLA agreements</li>
               <li>Service Reliability</li>
